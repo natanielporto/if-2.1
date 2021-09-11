@@ -1,0 +1,265 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Checkbox tests  Label is written in input label 1`] = `
+<div>
+  <fieldset
+    class="sc-AxjAm iQWkcR"
+  >
+    <div
+      class="checkbox "
+      data-testid="div-checkbox"
+    >
+      <label>
+        <input
+          data-testid="checkbox"
+          type="checkbox"
+          value="Naruto"
+        />
+        <span
+          class="checkbox-material"
+        >
+          <span
+            class="check"
+          />
+        </span>
+        Naruto
+      </label>
+    </div>
+  </fieldset>
+</div>
+`;
+
+exports[`Checkbox tests  When there is a "click" prop and a true "disabled" prop, the function is not called when the input is clicked 1`] = `
+<div>
+  <fieldset
+    class="sc-AxjAm iQWkcR"
+  >
+    <div
+      class="checkbox "
+      data-testid="div-checkbox"
+    >
+      <label>
+        <input
+          data-testid="checkbox"
+          disabled=""
+          type="checkbox"
+          value="Naruto"
+        />
+        <span
+          class="checkbox-material"
+        >
+          <span
+            class="check"
+          />
+        </span>
+        Naruto
+      </label>
+    </div>
+  </fieldset>
+</div>
+`;
+
+exports[`Checkbox tests  When there is a "click" prop, the function is called when the input is clicked 1`] = `
+<div>
+  <fieldset
+    class="sc-AxjAm iQWkcR"
+  >
+    <div
+      class="checkbox "
+      data-testid="div-checkbox"
+    >
+      <label>
+        <input
+          data-testid="checkbox"
+          type="checkbox"
+          value="Naruto"
+        />
+        <span
+          class="checkbox-material"
+        >
+          <span
+            class="check"
+          />
+        </span>
+        Naruto
+      </label>
+    </div>
+  </fieldset>
+</div>
+`;
+
+exports[`Checkbox tests  When there is a prop "disabled" with value False the component is abled 1`] = `
+<div>
+  <fieldset
+    class="sc-AxjAm iQWkcR"
+  >
+    <div
+      class="checkbox "
+      data-testid="div-checkbox"
+    >
+      <label>
+        <input
+          data-testid="checkbox"
+          type="checkbox"
+          value="Naruto"
+        />
+        <span
+          class="checkbox-material"
+        >
+          <span
+            class="check"
+          />
+        </span>
+        Naruto
+      </label>
+    </div>
+  </fieldset>
+</div>
+`;
+
+exports[`Checkbox tests  When there is a prop "disabled" with value True the component is disabled 1`] = `
+<div>
+  <fieldset
+    class="sc-AxjAm iQWkcR"
+  >
+    <div
+      class="checkbox "
+      data-testid="div-checkbox"
+    >
+      <label>
+        <input
+          data-testid="checkbox"
+          disabled=""
+          type="checkbox"
+          value="Naruto"
+        />
+        <span
+          class="checkbox-material"
+        >
+          <span
+            class="check"
+          />
+        </span>
+        Naruto
+      </label>
+    </div>
+  </fieldset>
+</div>
+`;
+
+exports[`Checkbox tests  When there is a prop "isChecked" with value False the component is not checked 1`] = `
+<div>
+  <fieldset
+    class="sc-AxjAm iQWkcR"
+  >
+    <div
+      class="checkbox "
+      data-testid="div-checkbox"
+    >
+      <label>
+        <input
+          data-testid="checkbox"
+          type="checkbox"
+          value="Naruto"
+        />
+        <span
+          class="checkbox-material"
+        >
+          <span
+            class="check"
+          />
+        </span>
+        Naruto
+      </label>
+    </div>
+  </fieldset>
+</div>
+`;
+
+exports[`Checkbox tests  When there is a prop "isChecked" with value True the component is checked 1`] = `
+<div>
+  <fieldset
+    class="sc-AxjAm iQWkcR"
+  >
+    <div
+      class="checkbox "
+      data-testid="div-checkbox"
+    >
+      <label>
+        <input
+          checked=""
+          data-testid="checkbox"
+          type="checkbox"
+          value="Naruto"
+        />
+        <span
+          class="checkbox-material"
+        >
+          <span
+            class="check"
+          />
+        </span>
+        Naruto
+      </label>
+    </div>
+  </fieldset>
+</div>
+`;
+
+exports[`Checkbox tests  When there is no prop "disabled" the component is abled by default 1`] = `
+<div>
+  <fieldset
+    class="sc-AxjAm iQWkcR"
+  >
+    <div
+      class="checkbox "
+      data-testid="div-checkbox"
+    >
+      <label>
+        <input
+          data-testid="checkbox"
+          type="checkbox"
+          value="Naruto"
+        />
+        <span
+          class="checkbox-material"
+        >
+          <span
+            class="check"
+          />
+        </span>
+        Naruto
+      </label>
+    </div>
+  </fieldset>
+</div>
+`;
+
+exports[`Checkbox tests  When there is no prop "isChecked" the component is not checked by default 1`] = `
+<div>
+  <fieldset
+    class="sc-AxjAm iQWkcR"
+  >
+    <div
+      class="checkbox "
+      data-testid="div-checkbox"
+    >
+      <label>
+        <input
+          data-testid="checkbox"
+          type="checkbox"
+          value="Naruto"
+        />
+        <span
+          class="checkbox-material"
+        >
+          <span
+            class="check"
+          />
+        </span>
+        Naruto
+      </label>
+    </div>
+  </fieldset>
+</div>
+`;

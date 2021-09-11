@@ -1,0 +1,27 @@
+const VISUAL_ARTS_COLOR = '#F28022';
+const MUSIC_COLOR = '#FCE127';
+const THEATER_COLOR = '#E7140B';
+const DANCE_COLOR = '#214CBB';
+
+const POINTS_COLOR = '#349A46';
+const POINTS_INACTIVATED_COLOR = '#222222';
+const STATE_DEFAULT_COLOR = '#999';
+
+const CATEGORIES = ['Artes Visuais', 'Música', 'Teatro', 'Dança'];
+
+const COLORS = {
+	'Artes Visuais': VISUAL_ARTS_COLOR,
+	Dança: DANCE_COLOR,
+	Música: MUSIC_COLOR,
+	Teatro: THEATER_COLOR,
+	Points: POINTS_COLOR,
+	'Points Inactivated': POINTS_INACTIVATED_COLOR,
+};
+
+export {
+	CATEGORIES,
+	COLORS,
+	POINTS_COLOR,
+	POINTS_INACTIVATED_COLOR,
+	STATE_DEFAULT_COLOR,
+};

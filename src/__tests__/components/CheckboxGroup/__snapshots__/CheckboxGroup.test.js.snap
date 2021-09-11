@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CheckboxGroup tests  Renders one checkbox for each item 1`] = `
+<div>
+  <div
+    class="sc-AxirZ laTrJs"
+    data-testid="checkbox-group"
+  >
+    <fieldset
+      class="sc-AxjAm iQWkcR"
+    >
+      <div
+        class="checkbox "
+        data-testid="div-A"
+      >
+        <label>
+          <input
+            data-testid="A"
+            type="checkbox"
+            value="A"
+          />
+          <span
+            class="checkbox-material"
+          >
+            <span
+              class="check"
+            />
+          </span>
+          A
+        </label>
+      </div>
+    </fieldset>
+    <fieldset
+      class="sc-AxjAm iQWkcR"
+    >
+      <div
+        class="checkbox "
+        data-testid="div-B"
+      >
+        <label>
+          <input
+            data-testid="B"
+            type="checkbox"
+            value="B"
+          />
+          <span
+            class="checkbox-material"
+          >
+            <span
+              class="check"
+            />
+          </span>
+          B
+        </label>
+      </div>
+    </fieldset>
+    <fieldset
+      class="sc-AxjAm iQWkcR"
+    >
+      <div
+        class="checkbox "
+        data-testid="div-C"
+      >
+        <label>
+          <input
+            data-testid="C"
+            type="checkbox"
+            value="C"
+          />
+          <span
+            class="checkbox-material"
+          >
+            <span
+              class="check"
+            />
+          </span>
+          C
+        </label>
+      </div>
+    </fieldset>
+  </div>
+</div>
+`;
