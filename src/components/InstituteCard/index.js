@@ -26,7 +26,7 @@ const InstituteCard = ({
 					<Title data-testid="header-name">
 						{name === 'Total' ? `${total} docentes` : `${name}`}
 					</Title>
-					<div className="images" data-testid="categories">
+					<div className={fromMap ? "map-modal" : "top-info-display"} data-testid="categories">
 						{categories.map((category) => (
 							<Category
 								counter={category.counter}

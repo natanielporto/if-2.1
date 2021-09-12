@@ -1,1 +1,39 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
 **/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore data files
+dados.json
+
+# Ignore files on scripts folder which aren't scripts
+scripts/*
+!scripts/*.py
+!scripts/*.sh
+!scripts/*.js
+
+# Ignore geometry files
+src/data/geometries/*
+!src/data/geometries/.gitkeep
+
+# Ignore serverless files
+*/.serverless

@@ -55,7 +55,7 @@ const Chart = ({ colors, data }) => {
 			keys={keys}
 			labelTextColor="gray"
 			layout="vertical"
-			margin={{ bottom: 90, left: 140, right: variables.right, top: 50 }}
+			margin={{ bottom: 100, left: 140, right: variables.right, top: 20 }}
 			sortBy={data.key}
 			width={variables.width}
 		/>

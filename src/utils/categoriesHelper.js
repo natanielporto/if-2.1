@@ -7,7 +7,7 @@ const POINTS_COLOR = '#349A46';
 const POINTS_INACTIVATED_COLOR = '#222222';
 const STATE_DEFAULT_COLOR = '#999';
 
-const CATEGORIES = ['Artes Visuais', 'Música', 'Teatro', 'Dança'];
+const CATEGORIES = ['Artes Visuais', 'Dança', 'Música', 'Teatro'];
 
 const COLORS = {
 	'Artes Visuais': VISUAL_ARTS_COLOR,

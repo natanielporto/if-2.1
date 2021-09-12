@@ -12,13 +12,14 @@ export const CategoryWrapper = styled.div`
 		color: transparent;
 		width: 40px;
 		height: 40px;
-		margin-right: 20px;
+		margin-right: 10px;
 	}
 `;
 
 export const Bottom = styled.div`
 	font-size: 16px;
 	font-weight: 300;
+	line-height: 20px;
 
 	span {
 		display: ${({ fromMap }) => (fromMap ? '' : 'flex')};

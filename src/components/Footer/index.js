@@ -10,8 +10,7 @@ const Footer = () => {
 				)
 			}
 		>
-			<span>Contato:</span>
-			<span>carlagiamaral@gmail.com</span>
+			<span>Contato: carlagiamaral@gmail.com</span>
 		</FooterWrapper>
 	);
 };

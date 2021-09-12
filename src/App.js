@@ -1,4 +1,3 @@
-/* eslint-disable max-lines */
 import React, { useState, useMemo, useRef, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import AboutUsModal from './components/AboutUsModal';
@@ -183,7 +182,7 @@ function App({ setIsAuthenticated }) {
 									CATEGORIES.indexOf(catA.description) -
 									CATEGORIES.indexOf(catB.description)
 							)}
-							className="images"
+							className="map-modal"
 							fromMap
 							height={150}
 							name={(hoverPoint && hoverPoint.id) || ''}

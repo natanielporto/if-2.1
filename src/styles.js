@@ -55,11 +55,19 @@ export const AppWrapper = styled.div`
 	flex-direction: column;
 	justify-content: center;
 
-	.images {
+	.map-modal {
 		display: grid;
 		grid-template-columns: 1fr 1fr;
-		grid-row-gap: 5px;
+		grid-row-gap: 10px;
 		grid-column-gap: 25px;
+		margin-top: 8px;
+	}
+	
+	.top-info-display {
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		width: 150%;
 		margin-top: 8px;
 	}
 `;
