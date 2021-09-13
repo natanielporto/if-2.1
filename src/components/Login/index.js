@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { LoginWrapper } from './styles';
 import LoginLogo from '../../assets/mapeamento-final.png';
 
-import { auth } from '../../services/auth.service';
+import auth from '../../services/auth.service';
 
 const Login = (props) => {
 	const { setIsAuthenticated } = props;

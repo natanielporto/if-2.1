@@ -1,0 +1,591 @@
+Pais,Sigla,Nome Instituicao,Estado,Regiao,Campus,Cidade,Latitude,Longitude,Artes Visuais,Musica,Teatro,Danca,Total,Integrado
+Brazil,IFSUL,IF Sul-rio-grandense,Rio Grande do Sul,Sul,Pelotas,Pelotas,-31.757402,-52.337164,6,1,,,7,S
+Brazil,IFSUL,IF Sul-rio-grandense,Rio Grande do Sul,Sul,CAVG,Pelotas,-31.719415,-52.310983,,1,,,1,S
+Brazil,IFSUL,IF Sul-rio-grandense,Rio Grande do Sul,Sul,Bage,Bagé,-31.3314264,-54.1062808,1,,,,1,S
+Brazil,IFSUL,IF Sul-rio-grandense,Rio Grande do Sul,Sul,Camaqua,Camaquã,-30.8524752,-51.8075619,1,,,,1,S
+Brazil,IFSUL,IF Sul-rio-grandense,Rio Grande do Sul,Sul,Charqueadas,Charqueadas,-29.955012,-51.6249195,1,,,,1,S
+Brazil,IFSUL,IF Sul-rio-grandense,Rio Grande do Sul,Sul,Gravatai,Gravatai,-29.9440222,-50.9930938,1,,,,1,S
+Brazil,IFSUL,IF Sul-rio-grandense,Rio Grande do Sul,Sul,Jaguarão,Jaguarão,-32.5662724,-53.3765705,0,0,0,0,0,S
+Brazil,IFSUL,IF Sul-rio-grandense,Rio Grande do Sul,Sul,Lajeado,Lajeado,-29.4671522,-51.9624046,1,,,,1,S
+Brazil,IFSUL,IF Sul-rio-grandense,Rio Grande do Sul,Sul,Novo Hamburgo,Novo Hamburgo,-29.6905705,-51.1429035,1,,,,1,S
+Brazil,IFSUL,IF Sul-rio-grandense,Rio Grande do Sul,Sul,Passo Fundo,Passo Fundo,-28.2616138,-52.4089048,0,0,0,0,0,S
+Brazil,IFSUL,IF Sul-rio-grandense,Rio Grande do Sul,Sul,Santana do Livramento,Santana do Livramento,-30.8894097,-55.5317694,1,,,,1,S
+Brazil,IFSUL,IF Sul-rio-grandense,Rio Grande do Sul,Sul,Sapiranga,Sapiranga,-29.6392382,-51.0068586,1,,,,1,S
+Brazil,IFSUL,IF Sul-rio-grandense,Rio Grande do Sul,Sul,Sapucaia do Sul,Sapucaia do Sul,-29.8197019,-51.1608722,1,,,,1,S
+Brazil,IFSUL,IF Sul-rio-grandense,Rio Grande do Sul,Sul,Venancio Aires,Venancio Aires,-29.614306,-52.193159,,1,1,,2,S
+Brazil,IFRS,IF Rio Grande do Sul,Rio Grande do Sul,Sul,Alvorada,Alvorada,-29.9981184,-51.0772509,1,1,,,2,S
+Brazil,IFRS,IF Rio Grande do Sul,Rio Grande do Sul,Sul,Bento Goncalves,Bento Goncalves,-29.1654014,-51.5197627,1,,,,1,S
+Brazil,IFRS,IF Rio Grande do Sul,Rio Grande do Sul,Sul,Canoas,Canoas,-29.9216045,-51.1799525,1,,,,1,S
+Brazil,IFRS,IF Rio Grande do Sul,Rio Grande do Sul,Sul,Caxias do Sul,Caxias do Sul,-29.1684796,-51.1793861,,1,,,1,S
+Brazil,IFRS,IF Rio Grande do Sul,Rio Grande do Sul,Sul,Erechim,Erechim,-27.6350143,-52.2737288,0,0,0,0,0,N
+Brazil,IFRS,IF Rio Grande do Sul,Rio Grande do Sul,Sul,Farroupilha,Farroupilha,-29.22647,-51.3468188,1,,,,1,S
+Brazil,IFRS,IF Rio Grande do Sul,Rio Grande do Sul,Sul,Feliz,Feliz,-29.4508908,-51.307713,1,,,,1,S
+Brazil,IFRS,IF Rio Grande do Sul,Rio Grande do Sul,Sul,Ibiruba,Ibiruba,-28.630161,-53.096124,1,,,,1,S
+Brazil,IFRS,IF Rio Grande do Sul,Rio Grande do Sul,Sul,Osorio,Osorio,-29.8890328,-50.2730224,1,1,,,2,S
+Brazil,IFRS,IF Rio Grande do Sul,Rio Grande do Sul,Sul,Porto Alegre,Porto Alegre,-30.026385,-51.223387,,12,,,12,N
+Brazil,IFRS,IF Rio Grande do Sul,Rio Grande do Sul,Sul,Restinga,Porto Alegre,-30.141472,-51.132788,1,1,,,2,S
+Brazil,IFRS,IF Rio Grande do Sul,Rio Grande do Sul,Sul,Rio Grande,Rio Grande,-32.0334252,-52.0991297,1,,,,1,S
+Brazil,IFRS,IF Rio Grande do Sul,Rio Grande do Sul,Sul,Rolante,Rolante,-29.6527945,-50.5769391,,1,,,1,S
+Brazil,IFRS,IF Rio Grande do Sul,Rio Grande do Sul,Sul,Sertão,Sertão,-27.9853815,-52.257587,1,1,,,2,S
+Brazil,IFRS,IF Rio Grande do Sul,Rio Grande do Sul,Sul,Vacaria,Vacaria,-28.5102901,-50.9356044,1,,,,1,S
+Brazil,IFRS,IF Rio Grande do Sul,Rio Grande do Sul,Sul,Veranopolis,Veranopolis,-28.9351293,-51.5516741,1,0,0,0,1,S
+Brazil,IFRS,IF Rio Grande do Sul,Rio Grande do Sul,Sul,Viamão,Viamão,-30.0819338,-51.0261927,1,,,,1,S
+Brazil,IF Farroupilha,IF Farroupilha,Rio Grande do Sul,Sul,Alegrete,Alegrete,-29.790166,-55.794862,1,,,,1,S
+Brazil,IF Farroupilha,IF Farroupilha,Rio Grande do Sul,Sul,Frederico Westphalen,Frederico Westphalen,-27.35711,-53.3964117,,1,,,1,S
+Brazil,IF Farroupilha,IF Farroupilha,Rio Grande do Sul,Sul,Jaguari,Jaguari,-29.498143,-54.6931868,,1,,,1,S
+Brazil,IF Farroupilha,IF Farroupilha,Rio Grande do Sul,Sul,Julio de Castilhos,Julio de Castilhos,-29.2286575,-53.6825217,1,,,,1,S
+Brazil,IF Farroupilha,IF Farroupilha,Rio Grande do Sul,Sul,Panambi,Panambi,-28.2898542,-53.501822,1,,,,1,S
+Brazil,IF Farroupilha,IF Farroupilha,Rio Grande do Sul,Sul,Santa Rosa,Santa Rosa,-27.8643546,-54.4779287,1,,,,1,S
+Brazil,IF Farroupilha,IF Farroupilha,Rio Grande do Sul,Sul,Santo Augusto,Santo Augusto,-27.852577,-53.777605,1,,,,1,S
+Brazil,IF Farroupilha,IF Farroupilha,Rio Grande do Sul,Sul,Santo Angelo ,Santo Angelo ,-28.3000481,-54.2669971,1,,,,1,S
+Brazil,IF Farroupilha,IF Farroupilha,Rio Grande do Sul,Sul,São Borja,São Borja,-28.6583,-56.0041,1,,,,1,S
+Brazil,IF Farroupilha,IF Farroupilha,Rio Grande do Sul,Sul,São Vicente do Sul,São Vicente do Sul,-29.688161,-54.682643,1,,,,1,S
+Brazil,IF Farroupilha,IF Farroupilha,Rio Grande do Sul,Sul,Uruguaiana,Uruguaiana,-29.8425284,-53.7680577,0,0,0,0,0,S
+Brazil,IFSC,IF Santa Catarina,Santa Catarina,Sul,Ararangua,Ararangua,-28.9348832,-49.4858389,,,1,,1,S
+Brazil,IFSC,IF Santa Catarina,Santa Catarina,Sul,Canoinhas,Canoinhas,-26.176591,-50.395001,1,,,,1,S
+Brazil,IFSC,IF Santa Catarina,Santa Catarina,Sul,Cacador,Cacador,-26.77567,-51.0120041,1,,,,1,S
+Brazil,IFSC,IF Santa Catarina,Santa Catarina,Sul,Chapeco,Chapeco,-27.0922364,-52.6166878,1,,,,1,S
+Brazil,IFSC,IF Santa Catarina,Santa Catarina,Sul,Criciuma,Criciuma,-28.6789941,-49.3695627,1,,,,1,S
+Brazil,IFSC,IF Santa Catarina,Santa Catarina,Sul,Florianopolis,Florianopolis,-27.596954,-48.566271,3,2,2,,7,S
+Brazil,IFSC,IF Santa Catarina,Santa Catarina,Sul,Florianopolis Continente,Florianopolis,-27.599705,-48.574080,0,0,0,0,0,N
+Brazil,IFSC,IF Santa Catarina,Santa Catarina,Sul,Garopaba,Garopaba,-28.0274798,-48.6240197,,,,1,1,S
+Brazil,IFSC,IF Santa Catarina,Santa Catarina,Sul,Gaspar,Gaspar,-26.9307306,-48.9566824,1,,,,1,S
+Brazil,IFSC,IF Santa Catarina,Santa Catarina,Sul,Itajai,Itajai,-26.9117879,-48.6669852,1,,,,1,S
+Brazil,IFSC,IF Santa Catarina,Santa Catarina,Sul,Jaragua do Sul - Centro,Jaragua do Sul,-26.477127,-49.092009,1,1,,,2,S
+Brazil,IFSC,IF Santa Catarina,Santa Catarina,Sul,Jaragua do Sul - Rau,Jaragua do Sul,-26.468173,-49.116236,0,0,0,0,0,N
+Brazil,IFSC,IF Santa Catarina,Santa Catarina,Sul,Joinville,Joinville,-26.3044898,-48.8486726,,,1,,1,S
+Brazil,IFSC,IF Santa Catarina,Santa Catarina,Sul,Lages,Lages,-27.8165664,-50.325883,0,0,0,0,0,N
+Brazil,IFSC,IF Santa Catarina,Santa Catarina,Sul,Palhoca - Bilingue,Palhoca,-27.6447774,-48.6646323,1,,1,,2,S
+Brazil,IFSC,IF Santa Catarina,Santa Catarina,Sul,São Carlos,São Carlos,-27.081863,-53.0051018,1,0,0,0,1,S
+Brazil,IFSC,IF Santa Catarina,Santa Catarina,Sul,São Jose,São Jose,-27.6162335,-48.6270136,1,,,,1,S
+Brazil,IFSC,IF Santa Catarina,Santa Catarina,Sul,São Lourenco do Oeste,São Lourenco do Oeste,-26.35566,-52.849837,0,0,0,0,0,N
+Brazil,IFSC,IF Santa Catarina,Santa Catarina,Sul,São Miguel do Oeste,São Miguel do Oeste,-26.7278977,-53.5176689,1,,,,1,S
+Brazil,IFSC,IF Santa Catarina,Santa Catarina,Sul,Tubarão,Tubarão,-28.471488,-49.014132,0,0,0,0,0,N
+Brazil,IFSC,IF Santa Catarina,Santa Catarina,Sul,Urupema,Urupema,-27.9557716,-49.875957,0,0,0,0,0,N
+Brazil,IFSC,IF Santa Catarina,Santa Catarina,Sul,Xanxerê,Xanxerê,-26.874694,-52.403579,1,,,,1,S
+Brazil,IFC,IF Catarinense,Santa Catarina,Sul,Abelardo Luz,Abelardo Luz,-26.5705893,-52.3280339,,1,,,1,S
+Brazil,IFC,IF Catarinense,Santa Catarina,Sul,Araquari,Araquari,-26.3703324,-48.7210994,1,1,,,2,S
+Brazil,IFC,IF Catarinense,Santa Catarina,Sul,Blumenau,Blumenau,-26.9195567,-49.0658025,1,,,,1,S
+Brazil,IFC,IF Catarinense,Santa Catarina,Sul,Brusque,Brusque,-27.0964628,-48.9136323,,1,,,1,S
+Brazil,IFC,IF Catarinense,Santa Catarina,Sul,Camboriu,Camboriu,-27.0273601,-48.6535657,,1,1,,2,S
+Brazil,IFC,IF Catarinense,Santa Catarina,Sul,Concordia,Concordia,-27.2312011,-52.0231024,0,0,0,0,0,S
+Brazil,IFC,IF Catarinense,Santa Catarina,Sul,Fraiburgo,Fraiburgo,-27.023288,-50.919978,0,0,0,0,0,S
+Brazil,IFC,IF Catarinense,Santa Catarina,Sul,Ibirama,Ibirama,-27.0536613,-49.5191153,,,1,,1,S
+Brazil,IFC,IF Catarinense,Santa Catarina,Sul,Luzerna,Luzerna,-27.1294338,-51.4686169,1,,,,1,S
+Brazil,IFC,IF Catarinense,Santa Catarina,Sul,Rio do Sul,Rio do Sul,-27.2162607,-49.643654,1,1,,,2,S
+Brazil,IFC,IF Catarinense,Santa Catarina,Sul,Santa Rosa do Sul,Santa Rosa do Sul,-29.1354955,-49.7154188,1,,,,1,S
+Brazil,IFC,IF Catarinense,Santa Catarina,Sul,São Bento do Sul,São Bento do Sul,-26.2483669,-49.3820672,,1,,,1,S
+Brazil,IFC,IF Catarinense,Santa Catarina,Sul,São Francisco do Sul,São Francisco do Sul,-26.2495087,-48.6308087,1,,,,1,S
+Brazil,IFC,IF Catarinense,Santa Catarina,Sul,Sombrio,Sombrio,-29.107985,-49.632776,,1,,,1,S
+Brazil,IFC,IF Catarinense,Santa Catarina,Sul,Videira,Videira,-27.00544,-51.1533733,,1,,,1,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Assis Chateaubriand,Assis Chateaubriand,-24.4054826,-53.5120468,1,1,,,2,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Astorga,Astorga,-23.2350184,-51.6647074,1,,,,1,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Barração,Barração,-26.252395,-53.6349576,1,,,,1,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Campo Largo,Campo Largo,-25.4597726,-49.5270851,,,1,,1,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Capanema,Capanema,-25.6704878,-53.8083036,1,,,,1,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Cascavel,Cascavel,-24.9554996,-53.4560544,1,,,,1,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Colombo,Colombo,-25.2925439,-49.2243472,1,,1,,2,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Coronel Vivida,Coronel Vivida,-25.9803771,-52.5654277,1,,,,1,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Curitiba,Curitiba,-25.4295963,-49.2712724,2,3,,,5,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Foz do Iguacu,Foz do Iguacu,-25.5401479,-54.5858139,1,,,,1,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Goioere,Goioere,-24.1851885,-53.0250623,,,1,,1,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Irati,Irati,-25.469663,-50.649287,1,,,,1,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Ivaipora,Ivaipora,-24.2433517,-51.6719268,1,,,,1,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Jacarezinho,Jacarezinho,-23.159115,-49.973889,,1,3,,4,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Jaguariaiva,Jaguariaiva,-24.2589699,-49.7201518,1,,,,1,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Londrina,Londrina,-23.3112878,-51.1595023,1,,,,1,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Palmas,Palmas,-26.483868,-51.988812,6,1,,,7,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Paranagua ,Paranaguá,-25.5149,-48.5226,1,1,,,2,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Paranavai,Paranavai,-23.08165,-52.461724,,1,,,1,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Pinhais,Pinhais,-25.4443488,-49.1900307,,,1,,1,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Pitanga,Pitanga,-24.759586,-51.7637582,1,,,,1,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Quedas do Iguacu,Quedas do Iguacu,-25.453001,-52.9090429,0,0,0,0,0,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Telemaco Borba,Telemaco Borba,-24.3282939,-50.6318021,1,1,,,2,S
+Brazil,IFPR,IF Parana,Paraná,Sul,Umuarama,Umuarama,-23.7617057,-53.3079895,2,,,,2,S
+Brazil,IFPR,IF Parana,Paraná,Sul,União da Vitoria,União da Vitoria,-26.228596,-51.0869796,1,,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Araraquara,Araraquara,-21.7886713,-48.1773096,2,,,,2,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Avare,Avare,-23.1045215,-48.9259103,1,,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Barretos,Barretos,-20.5531437,-48.5697509,,1,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Birigui,Birigui,-21.2908491,-50.34144,1,,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Boituva,Boituva,-23.2838893,-47.6738231,,,1,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Braganca Paulista,Braganca Paulista,-22.9520235,-46.5418586,1,,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Campinas,Campinas,-22.90556,-47.06083,,,,1,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Campos do Jordão,Campos do Jordão,-22.7395263,-45.5912829,1,,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Capivari,Capivari,-22.9998994,-47.5025742,1,1,,,2,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Caraguatatuba,Caraguatatuba,-23.62028,-45.41306,,1,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Catanduva,Catanduva,-21.1331035,-48.9712817,,1,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Cubatão,Cubatão,-23.8857982,-46.4241869,1,,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Guarulhos,Guarulhos,-23.4430602,-46.524459,,,1,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Hortolandia,Hortolandia,-22.85833,-47.22,1,,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Ilha Solteira,Ilha Solteira,-20.4281001,-51.3410871,1,,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Itapetininga,Itapetininga,-23.588607,-48.048326,1,,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Itaquaquecetuba,Itaquaquecetuba,-23.4754492,-46.3514033,1,,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Jacarei,Jacarei,-23.30528,-45.96583,1,,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Jundiai,Jundiai,-23.1887866,-46.8845122,1,,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Matão,Matão,-21.6033611,-48.3660603,1,,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Piracicaba,Piracicaba,-22.72528,-47.64917,,,1,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Pirituba,Pirituba,-23.485533,-46.7219385,1,,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Presidente Epitacio,Presidente Epitacio,-21.765074,-52.11114,,,1,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Registro,Registro,-24.497942,-47.844895,1,,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Salto,Salto,-23.1989983,-47.2913682,1,,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,São Carlos,São Carlos,-22.0183367,-47.890932,,1,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,São João da Boa Vista,São João da Boa Vista,-21.9778137,-46.7881722,,1,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,São Jose dos Campos,São Jose dos Campos,-23.1805011,-45.8872969,1,,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,São Miguel Paulista,São Miguel Paulista,-23.5026845,-46.43832867511995,1,,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,São Paulo,São Paulo,-23.5506507,-46.6333824,1,1,,,2,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,São Roque,São Roque,-23.5304843,-47.1355473,,1,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Sorocaba,Sorocaba,-23.501667,-47.458056,,,,1,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Sertãozinho,Sertãozinho,-21.1375782,-47.9913741,,1,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Suzano,Suzano,-23.5427842,-46.3108391,1,,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Tupa,Tupa,-21.9348631,-50.5135113,1,,,,1,S
+Brazil,IFSP,IF São Paulo,São Paulo,Sudeste,Votuporanga,Votuporanga,-20.4252908,-49.972028,1,,,,1,S
+Brazil,IFF,IF Fluminense,Rio de Janeiro,Sudeste,Bom Jesus do Itabapoana,Bom Jesus do Itabapoana,-21.1341025,-41.680095,1,,,,1,S
+Brazil,IFF,IF Fluminense,Rio de Janeiro,Sudeste,Cabo Frio,Cabo Frio,-22.8804369,-42.0189227,1,1,,,2,S
+Brazil,IFF,IF Fluminense,Rio de Janeiro,Sudeste,Cambuci,Cambuci,-21.5749919,-41.9107833,,,1,,1,S
+Brazil,IFF,IF Fluminense,Rio de Janeiro,Sudeste,Centro,Campos dos Goytacazes,-22.7496231,-42.8557428,2,2,8,1,13,S
+Brazil,IFF,IF Fluminense,Rio de Janeiro,Sudeste,Guarus,Campos dos Goytacazes,-21.2048,-41.88801,,8,1,,9,S
+Brazil,IFF,IF Fluminense,Rio de Janeiro,Sudeste,Itaborai,Itaborai,-22.3712958,-41.7866922,0,0,0,0,0,N
+Brazil,IFF,IF Fluminense,Rio de Janeiro,Sudeste,Itaperuna,Itaperuna,-22.9196772,-42.8184375,1,,,,1,S
+Brazil,IFF,IF Fluminense,Rio de Janeiro,Sudeste,Macae,Macae,-22.107205,-41.4723411,,1,,,1,S
+Brazil,IFF,IF Fluminense,Rio de Janeiro,Sudeste,Marica,Marica,-21.748120,-41.348157,,,,1,1,S
+Brazil,IFF,IF Fluminense,Rio de Janeiro,Sudeste,Quissama,Quissama,-21.748038,-41.348158,1,,,,1,S
+Brazil,IFF,IF Fluminense,Rio de Janeiro,Sudeste,São João da Barra,São João da Barra,-21.6348588,-41.0487079,1,,,,1,S
+Brazil,IFF,IF Fluminense,Rio de Janeiro,Sudeste,Santo Antonio de Padua,Santo Antonio de Padua,-21.5389992,-42.1799978,1,,,,1,S
+Brazil,IFRJ,IF Rio de Janeiro,Rio de Janeiro,Sudeste,Arraial do Cabo,Arraial do Cabo,-22.9662839,-42.024427,1,,,,1,S
+Brazil,IFRJ,IF Rio de Janeiro,Rio de Janeiro,Sudeste,Belford Roxo,Belford Roxo,-22.7667284,-43.4033603,2,,,,2,N
+Brazil,IFRJ,IF Rio de Janeiro,Rio de Janeiro,Sudeste,Duque de Caxias,Duque de Caxias,-22.7896225,-43.309929,,1,1,,2,S
+Brazil,IFRJ,IF Rio de Janeiro,Rio de Janeiro,Sudeste,Engenheiro Paulo de Frontin,Engenheiro Paulo de Frontin,-22.5504556,-43.6783403,1,1,,,2,S
+Brazil,IFRJ,IF Rio de Janeiro,Rio de Janeiro,Sudeste,Mesquita,Mesquita,-22.783092,-43.4293599,0,0,0,0,0,N
+Brazil,IFRJ,IF Rio de Janeiro,Rio de Janeiro,Sudeste,Nilopolis,Nilopolis,-22.8080114,-43.4138222,4,1,,,5,S
+Brazil,IFRJ,IF Rio de Janeiro,Rio de Janeiro,Sudeste,Niteroi,Niteroi,-22.8832371,-43.1154552,1,,,,1,S
+Brazil,IFRJ,IF Rio de Janeiro,Rio de Janeiro,Sudeste,Paracambi,Paracambi,-22.6109158,-43.7096912,1,1,,,2,S
+Brazil,IFRJ,IF Rio de Janeiro,Rio de Janeiro,Sudeste,Pinheiral,Pinheiral,-22.5129436,-44.001435,1,1,,,2,S
+Brazil,IFRJ,IF Rio de Janeiro,Rio de Janeiro,Sudeste,Realengo,Realengo,-22.8772743,-43.4301032,0,0,0,0,0,N
+Brazil,IFRJ,IF Rio de Janeiro,Rio de Janeiro,Sudeste,Resende,Resende,-22.4683626,-44.4463494,1,,,,1,S
+Brazil,IFRJ,IF Rio de Janeiro,Rio de Janeiro,Sudeste,Rio de Janeiro,Rio de Janeiro,-22.9110137,-43.2093727,2,,2,,4,S
+Brazil,IFRJ,IF Rio de Janeiro,Rio de Janeiro,Sudeste,São Goncalo,São Goncalo,-22.8219014,-43.0309252,1,,,,1,S
+Brazil,IFRJ,IF Rio de Janeiro,Rio de Janeiro,Sudeste,São João de Meriti,São João de Meriti,-22.8043744,-43.3724125,0,0,0,0,0,N
+Brazil,IFRJ,IF Rio de Janeiro,Rio de Janeiro,Sudeste,Volta Redonda,Volta Redonda,-22.5225497,-44.1040128,1,1,,,2,S
+Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Alegre,Alegre,-20.7625787,-41.5318886,1,,,,1,S
+Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Aracruz,Aracruz,-19.8245218,-40.2735025,1,,,,1,S
+Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Barra de São Francisco,Barra de São Francisco,-18.7570902,-40.8916119,0,0,0,0,0,S
+Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Cachoeiro de Itapemirim,Cachoeiro de Itapemirim,-20.848084,-41.11129,1,,,,1,S
+Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Cariacica,Cariacica,-20.263202,-40.416549,1,,,,1,S
+,,IF Espirito Santo,Espírito Santo,Sudeste,Centro-Serrano,Santa Maria de Jetiba,-20.030342,-40.742610,1,,,,,S
+Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Colatina,Colatina,-19.5346732,-40.6287836,,1,,,1,S
+Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Guarapari,Guarapari,-20.6718755,-40.4984617,1,,,,1,S
+Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Ibatiba,Ibatiba,-20.2342792,-41.5082981,0,0,0,0,0,S
+Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Itapina,Itapina,-19.5084749,-40.798960,1,,,,1,S
+Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Linhares,Linhares,-19.3816944,-40.0612213,1,,,,1,S
+Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Montanha,Montanha,-18.1256742,-40.366795,1,,,,1,S
+Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Nova Venecia,Nova Venecia,-18.7063456,-40.3969786,,1,,,1,S
+Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Piuma,Piuma,-20.8375312,-40.7271589,1,,,,1,S
+Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Santa Tereza,Santa Tereza,-20.3106023,-40.3486418,0,0,0,0,0,S
+Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,São Mateus,São Mateus,-18.7157663,-39.8492211,0,0,0,0,0,S
+Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Serra,Serra,-20.1252961,-40.3064477,,1,,,1,S
+Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Venda Nova do Imigrante,Venda Nova do Imigrante,-20.3325787,-41.1295842,1,,,,1,S
+Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Viana,Viana,-20.3914471,-40.4966587,,1,,,1,S
+Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Vila Velha,Vila Velha,-20.3297293,-40.2920284,1,,,,1,S
+Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Vitoria,Vitoria,-20.3200917,-40.3376682,1,,,,1,S
+Brazil,IF Sul de Minas,IF Sul de Minas,Minas Gerais,Sudeste,Inconfidentes,Inconfidentes,-22.3168866,-46.3279182,,,1,,1,S
+Brazil,IF Sul de Minas,IF Sul de Minas,Minas Gerais,Sudeste,Machado,Machado,-21.6762861,-45.9211696,0,0,0,0,0,S
+Brazil,IF Sul de Minas,IF Sul de Minas,Minas Gerais,Sudeste,Muzambinho,Muzambinho,-21.3727087,-46.51927,0,0,0,0,0,S
+Brazil,IF Sul de Minas,IF Sul de Minas,Minas Gerais,Sudeste,Passos,Passos,-20.719162,-46.6094507,1,,,,1,S
+Brazil,IF Sul de Minas,IF Sul de Minas,Minas Gerais,Sudeste,Pocos de Caldas,Pocos de Caldas,-21.7900318,-46.5647928,1,,,,1,S
+Brazil,IF Sul de Minas,IF Sul de Minas,Minas Gerais,Sudeste,Pouso Alegre,Pouso Alegre,-22.2343858,-45.9327241,,,1,,1,S
+Brazil,IF Sul de Minas,IF Sul de Minas,Minas Gerais,Sudeste,Carmo de Minas,Carmo de Minas,-22.1216655,-45.1323836,0,0,0,0,0,S
+Brazil,IF Sul de Minas,IF Sul de Minas,Minas Gerais,Sudeste,Três Coracões,Três Corações,-21.6947,-45.2512,,,1,,1,S
+Brazil,IFMG,IF Minas Gerais,Minas Gerais,Sudeste,Congonhas,Congonhas,-20.5015168,-43.8564586,1,,,,1,S
+Brazil,IFMG,IF Minas Gerais,Minas Gerais,Sudeste,Conselheiro Lafaiete,Conselheiro Lafaiete,-20.6596107,-43.785743,,1,,,1,S
+Brazil,IFMG,IF Minas Gerais,Minas Gerais,Sudeste,Governador Valadares,Governador Valadares,-18.8539497,-41.9458753,1,,,,1,S
+Brazil,IFMG,IF Minas Gerais,Minas Gerais,Sudeste,Piumhi,Piumhi,-20.4675258,-45.9576125,0,0,0,0,0,S
+Brazil,IFMG,IF Minas Gerais,Minas Gerais,Sudeste,Ouro Branco,Ouro Branco,-20.5230256,-43.6917329,1,,,,1,S
+Brazil,IFMG,IF Minas Gerais,Minas Gerais,Sudeste,Ipatinga,Ipatinga,-19.4777807,-42.5270802,0,0,0,0,0,S
+Brazil,IFMG,IF Minas Gerais,Minas Gerais,Sudeste,Ouro Preto,Ouro Preto,-20.3851692,-43.5036344,0,0,0,0,0,S
+Brazil,IFMG,IF Minas Gerais,Minas Gerais,Sudeste,Itabirito,Itabirito,-20.2519724,-43.8029171,0,0,0,0,0,S
+Brazil,IFMG,IF Minas Gerais,Minas Gerais,Sudeste,Ribeirão das Neves,Ribeirão das Neves,-19.7672898,-44.0875436,0,0,0,0,0,S
+Brazil,IFMG,IF Minas Gerais,Minas Gerais,Sudeste,Ponte Nova,Ponte Nova,-20.4164353,-42.90878,0,0,0,0,0,S
+Brazil,IFMG,IF Minas Gerais,Minas Gerais,Sudeste,Sabará,Sabará ,-19.8900372,-43.8107916,1,,,,1,S
+Brazil,IFMG,IF Minas Gerais,Minas Gerais,Sudeste,Formiga,Formiga,-20.4648425,-45.4266753,0,0,0,0,0,S
+Brazil,IFMG,IF Minas Gerais,Minas Gerais,Sudeste,Santa Luzia,Santa Luzia,-19.7702097,-43.8505291,1,,,,1,S
+Brazil,IFMG,IF Minas Gerais,Minas Gerais,Sudeste,Bambui,Bambui,-20.0131996,-45.9777034,0,0,0,0,0,S
+Brazil,IFMG,IF Minas Gerais,Minas Gerais,Sudeste,São João Evangelista,São João Evangelista,-18.548023,-42.7652888,,1,,,1,S
+Brazil,IFMG,IF Minas Gerais,Minas Gerais,Sudeste,Betim,Betim,-19.968056,-44.198333,,,1,,1,S
+Brazil,IFMG,IF Minas Gerais,Minas Gerais,Sudeste,Arcos,Arcos,-20.282223,-45.539444,0,0,0,0,0,S
+Brazil,IFMG,IF Minas Gerais,Minas Gerais,Sudeste,Ibirite,Ibirite,-20.0214251,-44.0621506,0,0,0,0,0,S
+Brazil,IFNMG,IF Norte de Minas,Minas Gerais,Sudeste,Almenara,Almenara,-16.1740678,-40.6904907,0,0,0,0,0,S
+Brazil,IFNMG,IF Norte de Minas,Minas Gerais,Sudeste,Aracuai,Aracuai,-16.8484451,-42.0661868,1,,,,1,S
+Brazil,IFNMG,IF Norte de Minas,Minas Gerais,Sudeste,Arinos,Arinos,-15.917223,-46.106111,0,0,0,0,0,S
+Brazil,IFNMG,IF Norte de Minas,Minas Gerais,Sudeste,Diamantina,Diamantina,-18.2440862,-43.6006487,,,2,1,3,S
+Brazil,IFNMG,IF Norte de Minas,Minas Gerais,Sudeste,Janauba,Janauba,-15.8019291,-43.309246,0,0,0,0,0,S
+Brazil,IFNMG,IF Norte de Minas,Minas Gerais,Sudeste,Januaria,Januaria,-15.4875,-44.361111,,1,1,,2,S
+Brazil,IFNMG,IF Norte de Minas,Minas Gerais,Sudeste,Montes Claros,Montes Claros,-16.7273538,-43.8717676,0,0,0,0,0,S
+Brazil,IFNMG,IF Norte de Minas,Minas Gerais,Sudeste,Pirapora,Pirapora,-17.3493765,-44.9507904,0,0,0,0,0,S
+Brazil,IFNMG,IF Norte de Minas,Minas Gerais,Sudeste,Porteirinha,Porteirinha,-15.7420889,-43.0286046,0,0,0,0,0,S
+Brazil,IFNMG,IF Norte de Minas,Minas Gerais,Sudeste,Salinas,Salinas,-16.1699073,-42.2910368,1,,,,1,S
+Brazil,IFNMG,IF Norte de Minas,Minas Gerais,Sudeste,Teofilo Otoni,Teofilo Otoni,-17.8579267,-41.5081533,0,0,0,0,0,S
+Brazil,IF Sudeste MG,IF Sudeste de Minas Gerais,Minas Gerais,Sudeste,Barbacena,Barbacena,-21.2254524,-43.7735087,1,,,,1,S
+Brazil,IF Sudeste MG,IF Sudeste de Minas Gerais,Minas Gerais,Sudeste,Bom Sucesso,Bom Sucesso,-21.0323516,-44.7598082,0,0,0,0,0,N
+Brazil,IF Sudeste MG,IF Sudeste de Minas Gerais,Minas Gerais,Sudeste,Cataguases,Cataguases,-21.387426,-42.6957219,0,0,0,0,0,N
+Brazil,IF Sudeste MG,IF Sudeste de Minas Gerais,Minas Gerais,Sudeste,Juiz de Fora,Juiz de Fora,-21.7609533,-43.3501129,,1,,,1,S
+Brazil,IF Sudeste MG,IF Sudeste de Minas Gerais,Minas Gerais,Sudeste,Manhuacu,Manhuacu,-20.2574434,-42.0340769,0,0,0,0,0,N
+Brazil,IF Sudeste MG,IF Sudeste de Minas Gerais,Minas Gerais,Sudeste,Muriae,Muriae,-21.130556,-42.366389,1,,,,1,S
+Brazil,IF Sudeste MG,IF Sudeste de Minas Gerais,Minas Gerais,Sudeste,Rio Pomba,Rio Pomba,-21.275,-43.178889,0,0,0,0,0,S
+Brazil,IF Sudeste MG,IF Sudeste de Minas Gerais,Minas Gerais,Sudeste,Santos Dumont,Santos Dumont,-21.455867,-43.5522107,0,0,0,0,0,S
+Brazil,IF Sudeste MG,IF Sudeste de Minas Gerais,Minas Gerais,Sudeste,São João Del-Rei,São João Del-Rei,-21.1335755,-44.2588086,,,1,,1,S
+Brazil,IF Sudeste MG,IF Sudeste de Minas Gerais,Minas Gerais,Sudeste,Uba,Uba,-21.12,-42.942777,0,0,0,0,0,N
+Brazil,IFTM,IF Triangulo Mineiro,Minas Gerais,Sudeste,Ibia,Ibia,-19.4771843,-46.5386956,0,0,0,0,0,N
+Brazil,IFTM,IF Triangulo Mineiro,Minas Gerais,Sudeste,Campina Verde,Campina Verde,-19.535277,-49.486389,0,0,0,0,0,N
+Brazil,IFTM,IF Triangulo Mineiro,Minas Gerais,Sudeste,Ituiutaba,Ituiutaba,-18.9691887,-49.4639335,,,1,,1,S
+Brazil,IFTM,IF Triangulo Mineiro,Minas Gerais,Sudeste,Paracatu,Paracatu,-17.2174056,-46.8707514,1,,,,1,S
+Brazil,IFTM,IF Triangulo Mineiro,Minas Gerais,Sudeste,Patos de Minas,Patos de Minas,-18.6041453,-46.5096698,,,1,,1,S
+Brazil,IFTM,IF Triangulo Mineiro,Minas Gerais,Sudeste,Patrocinio,Patrocinio,-18.9408294,-46.9926624,1,,,,1,S
+Brazil,IFTM,IF Triangulo Mineiro,Minas Gerais,Sudeste,Uberaba,Uberaba,-19.750833,-47.936666,1,1,,,2,S
+Brazil,IFTM,IF Triangulo Mineiro,Minas Gerais,Sudeste,Uberaba Parque Tecnologico,Uberaba,-19.71865,-47.9599678,1,,,,1,S
+Brazil,IFTM,IF Triangulo Mineiro,Minas Gerais,Sudeste,Uberlandia Centro,Uberlandia,-18.933146,-48.280228,,,1,,,S
+Brazil,IFTM,IF Triangulo Mineiro,Minas Gerais,Sudeste,Uberlandia,Uberlandia,-18.766486,-48.296277,1,,,,1,S
+Brazil,IFMT,IF Mato Grosso,Mato Grosso,Centro-Oeste,Cuiaba - Ocatayde Jorge da Silva,Cuiaba,-15.5986686,-56.0991301,1,1,,,2,S
+Brazil,IFMT,IF Mato Grosso,Mato Grosso,Centro-Oeste,São Vicente,São Vicente,-15.8229524,-55.4174185,,1,,,1,S
+Brazil,IFMT,IF Mato Grosso,Mato Grosso,Centro-Oeste,Caceres - Professor Olegário Baldo,Caceres,-16.0658939,-57.6852775,,1,,,1,S
+Brazil,IFMT,IF Mato Grosso,Mato Grosso,Centro-Oeste,Cuiaba - Bela Vista,Cuiaba,-15.5986686,-56.0991301,1,1,1,,3,S
+Brazil,IFMT,IF Mato Grosso,Mato Grosso,Centro-Oeste,Pontes e Lacerda - Fronteira Oeste,Pontes e Lacerda,-15.2315171,-59.3349512,,1,,,1,S
+Brazil,IFMT,IF Mato Grosso,Mato Grosso,Centro-Oeste,Campo Novo do Parecis,Campo Novo do Parecis,-13.658735,-57.890723,,1,,,1,S
+Brazil,IFMT,IF Mato Grosso,Mato Grosso,Centro-Oeste,Juina,Juina,-11.4230908,-58.7570212,,1,,,1,S
+Brazil,IFMT,IF Mato Grosso,Mato Grosso,Centro-Oeste,Confresa,Confresa,-10.643695,-51.569873,,1,,,1,S
+Brazil,IFMT,IF Mato Grosso,Mato Grosso,Centro-Oeste,Rondonopolis,Rondonopolis,-16.4603533,-54.6397099,,1,,,1,S
+Brazil,IFMT,IF Mato Grosso,Mato Grosso,Centro-Oeste,Sorriso,Sorriso,-12.5444887,-55.7233972,1,,,,1,S
+Brazil,IFMT,IF Mato Grosso,Mato Grosso,Centro-Oeste,Varzea Grande,Varzea Grande,-15.645816,-56.132218,,1,,,1,S
+Brazil,IFMT,IF Mato Grosso,Mato Grosso,Centro-Oeste,Barra do Garcas,Barra do Garcas,-15.8916033,-52.2615413,0,0,0,0,0,S
+Brazil,IFMT,IF Mato Grosso,Mato Grosso,Centro-Oeste,Primavera do Leste,Primavera do Leste,-15.5614127,-54.2993946,,1,,,1,S
+Brazil,IFMT,IF Mato Grosso,Mato Grosso,Centro-Oeste,Alta Floresta,Alta Floresta,-9.8715018,-56.0839881,,,1,,1,S
+Brazil,IFMT,IF Mato Grosso,Mato Grosso,Centro-Oeste,Tangará da Serra,Tangará da Serra,-14.6197,-57.4875,,1,,,1,S
+Brazil,IFMT,IF Mato Grosso,Mato Grosso,Centro-Oeste,Diamantino,Diamantino,-14.4036262,-56.4364488,1,,,,1,S
+Brazil,IFMT,IF Mato Grosso,Mato Grosso,Centro-Oeste,Lucas do Rio Verde,Lucas do Rio Verde,-13.0655935,-55.9198356,0,0,0,0,0,S
+Brazil,IFMT,IF Mato Grosso,Mato Grosso,Centro-Oeste,Sinop,Sinop,-11.8508224,-55.5175957,,1,,,1,S
+Brazil,IFMT,IF Mato Grosso,Mato Grosso,Centro-Oeste,Guaranta do Norte,Guaranta do Norte,-9.9517992,-54.9098178,1,,,,1,S
+Brazil,IFMS,IF Mato Grosso do Sul,Mato Grosso do Sul,Centro-Oeste,Aquidauana,Aquidauana,-20.473969,-55.7821375,,1,,,1,S
+Brazil,IFMS,IF Mato Grosso do Sul,Mato Grosso do Sul,Centro-Oeste,Campo Grande,Campo Grande,-20.4640173,-54.6162947,,2,,,2,S
+Brazil,IFMS,IF Mato Grosso do Sul,Mato Grosso do Sul,Centro-Oeste,Corumba ,Corumba,-19.0016365,-57.6534316,,,,,0,S
+Brazil,IFMS,IF Mato Grosso do Sul,Mato Grosso do Sul,Centro-Oeste,Coxim,Coxim,-18.504915,-54.7450251,,,1,,1,S
+Brazil,IFMS,IF Mato Grosso do Sul,Mato Grosso do Sul,Centro-Oeste,Dourados,Dourados,-22.2206145,-54.812208,,1,,,1,S
+Brazil,IFMS,IF Mato Grosso do Sul,Mato Grosso do Sul,Centro-Oeste,Jardim,Jardim,-21.479941,-56.148902,1,,,,1,S
+Brazil,IFMS,IF Mato Grosso do Sul,Mato Grosso do Sul,Centro-Oeste,Navirai,Navirai,-23.0622152,-54.2018319,,,,,0,S
+Brazil,IFMS,IF Mato Grosso do Sul,Mato Grosso do Sul,Centro-Oeste,Nova Andradina,Nova Andradina,-22.2477565,-53.3480621,1,,,,1,S
+Brazil,IFMS,IF Mato Grosso do Sul,Mato Grosso do Sul,Centro-Oeste,Ponta Pora,Ponta Pora,-22.5286917,-55.723426,1,,,,1,S
+Brazil,IFMS,IF Mato Grosso do Sul,Mato Grosso do Sul,Centro-Oeste,Tres Lagoas,Tres Lagoas,-20.7866799,-51.7061247,,,1,,1,S
+Brazil,IFG,IF Goias,Goiás,Centro-Oeste,Aguas Lindas,Aguas Lindas,-15.0894093,-47.77510988510148,1,,1,,2,S
+Brazil,IFG,IF Goias,Goiás,Centro-Oeste,Anapolis,Anapolis,-16.3332828,-48.9525756,1,1,,1,3,S
+Brazil,IFG,IF Goias,Goiás,Centro-Oeste,Aparecida de Goiania,Aparecida de Goiania,-16.8226769,-49.2452546,2,1,1,5,9,S
+Brazil,IFG,IF Goias,Goiás,Centro-Oeste,Goiás,Goiás,-15.8272,-50.2657,6,,2,,8,S
+Brazil,IFG,IF Goias,Goiás,Centro-Oeste,Formosa,Formosa,-15.5492443,-47.3301212,1,1,,,2,S
+Brazil,IFG,IF Goias,Goiás,Centro-Oeste,Goiania,Goiania,-16.680882,-49.2532691,1,21,2,1,25,S
+Brazil,IFG,IF Goias,Goiás,Centro-Oeste,Goiania Oeste,Goiania Oeste,-16.702849,-49.282081,1,1,1,,3,S
+Brazil,IFG,IF Goias,Goiás,Centro-Oeste,Inhumas,Inhumas,-16.3610569,-49.500111,1,1,,,2,S
+Brazil,IFG,IF Goias,Goiás,Centro-Oeste,Itumbiara,Itumbiara,-18.4135862,-49.2172596,,1,,,1,S
+Brazil,IFG,IF Goias,Goiás,Centro-Oeste,Jatai,Jatai,-17.8783829,-51.7204241,1,,1,,2,S
+Brazil,IFG,IF Goias,Goiás,Centro-Oeste,Luziania,Luziania,-16.2535456,-47.9500276,1,1,,,2,S
+Brazil,IFG,IF Goias,Goiás,Centro-Oeste,Senador Canedo,Senador Canedo,-16.7013233,-49.0914921,,1,,,1,S
+Brazil,IFG,IF Goias,Goiás,Centro-Oeste,Uruacu,Uruacu,-14.5244164,-49.1510022,,2,,,2,S
+Brazil,IFG,IF Goias,Goiás,Centro-Oeste,Valparaiso,Valparaiso,-16.0686394,-47.9764907,,,1,,1,S
+Brazil,IF Goiano,IF Goiano,Goiás,Centro-Oeste,Campos Belos,Campos Belos,-13.0349839,-46.768112,0,0,0,0,0,S
+Brazil,IF Goiano,IF Goiano,Goiás,Centro-Oeste,Catalão,Catalão,-18.1702546,-47.9447082,0,0,0,0,0,S
+Brazil,IF Goiano,IF Goiano,Goiás,Centro-Oeste,Ceres,Ceres,-15.3103568,-49.6032054,0,0,0,0,0,S
+Brazil,IF Goiano,IF Goiano,Goiás,Centro-Oeste,Cristalina,Cristalina,-16.7676079,-47.6131281,0,0,0,0,0,S
+Brazil,IF Goiano,IF Goiano,Goiás,Centro-Oeste,Hidrolandia,Hidrolandia,-16.9671342,-49.22826,0,0,0,0,0,S
+Brazil,IF Goiano,IF Goiano,Goiás,Centro-Oeste,Ipameri,Ipameri,-17.7215439,-48.158118,0,0,0,0,0,S
+Brazil,IF Goiano,IF Goiano,Goiás,Centro-Oeste,Ipora,Ipora,-16.4407981,-51.1181188,0,0,0,0,0,S
+Brazil,IF Goiano,IF Goiano,Goiás,Centro-Oeste,Morrinhos,Morrinhos,-17.7333689,-49.105908,0,0,0,0,0,S
+Brazil,IF Goiano,IF Goiano,Goiás,Centro-Oeste,Posse,Posse,-14.0835852,-46.3563185,0,0,0,0,0,S
+Brazil,IF Goiano,IF Goiano,Goiás,Centro-Oeste,Rio Verde,Rio Verde,-17.7921255,-50.9191219,0,0,0,0,0,N
+Brazil,IF Goiano,IF Goiano,Goiás,Centro-Oeste,Trindade,Trindade,-16.6549924,-49.4876203,0,0,0,0,0,S
+Brazil,IF Goiano,IF Goiano,Goiás,Centro-Oeste,Urutai,Urutai,-17.4640633,-48.2021071,0,0,0,0,0,S
+Brazil,IFB,IF Brasilia,Distrito Federal,Centro-Oeste,Brasilia,Brasilia,-15.753903,-47.881547,1,2,,16,19,S
+Brazil,IFB,IF Brasilia,Distrito Federal,Centro-Oeste,Ceilandia,Ceilandia,-15.8173391,-48.1045766,,1,,1,2,S
+Brazil,IFB,IF Brasilia,Distrito Federal,Centro-Oeste,Estrutural - CEST,Brasília,-15.7754462,-47.7970891,,2,,,2,S
+Brazil,IFB,IF Brasilia,Distrito Federal,Centro-Oeste,Gama,Gama,-16.0170857,-48.0653054,1,,,,1,S
+Brazil,IFB,IF Brasilia,Distrito Federal,Centro-Oeste,Planaltina,Planaltina,-15.6181947,-47.6555703,1,1,,,2,S
+Brazil,IFB,IF Brasilia,Distrito Federal,Centro-Oeste,Recanto das Emas,Recanto das Emas,-15.9025481,-48.0607778,1,1,,,2,S
+Brazil,IFB,IF Brasilia,Distrito Federal,Centro-Oeste,Riacho Fundo,Riacho Fundo,-15.883305,-48.0174762,,1,,,1,S
+Brazil,IFB,IF Brasilia,Distrito Federal,Centro-Oeste,Samambaia,Samambaia,-15.8769989,-48.0881004,1,1,,,2,S
+Brazil,IFB,IF Brasilia,Distrito Federal,Centro-Oeste,São Sebastião,São Sebastião,-15.9033774,-47.7717736,1,,,,1,S
+Brazil,IFB,IF Brasilia,Distrito Federal,Centro-Oeste,Taguatinga,Taguatinga,-15.8335277,-48.0565716,1,,,,1,S
+Brazil,IFTO,IF Tocantins,Tocantins,Norte,Araguaina,Araguaina,-7.193241,-48.2018597,1,,,,1,S
+Brazil,IFTO,IF Tocantins,Tocantins,Norte,Araguatins,Araguatins,-5.6522925,-48.1158973,1,,,,1,S
+Brazil,IFTO,IF Tocantins,Tocantins,Norte,Formoso do Araguaia,Formoso do Araguaia,-11.8059989,-49.5257153,0,0,0,0,0,N
+Brazil,IFTO,IF Tocantins,Tocantins,Norte,Lagoa da Confusão,Lagoa da Confusão,-10.7883045,-49.6224431,0,0,0,0,0,N
+Brazil,IFTO,IF Tocantins,Tocantins,Norte,Pedro Afonso,Pedro Afonso,-8.9757351,-48.1733282,0,0,0,0,0,N
+Brazil,IFTO,IF Tocantins,Tocantins,Norte,Colinas do Tocantins,Colinas do Tocantins,-8.0612688,-48.4716768,,,1,,1,S
+Brazil,IFTO,IF Tocantins,Tocantins,Norte,Dianopolis,Dianopolis,-11.624008,-46.819787,1,,,,1,S
+Brazil,IFTO,IF Tocantins,Tocantins,Norte,Gurupi,Gurupi,-11.72794,-49.068046,1,1,2,,4,S
+Brazil,IFTO,IF Tocantins,Tocantins,Norte,Palmas,Palmas,-10.1835604,-48.3337793,1,2,,,3,S
+Brazil,IFTO,IF Tocantins,Tocantins,Norte,Paraiso do Tocantins,Paraiso do Tocantins,-10.1752474,-48.886759,1,,,,1,S
+Brazil,IFTO,IF Tocantins,Tocantins,Norte,Porto Nacional,Porto Nacional,-10.7019786,-48.4110952,1,,1,,2,S
+Brazil,IFRO,IF Rondonia,Rondônia,Norte,Ariquemes,Ariquemes,-9.9076522,-63.033069,,1,,,1,S
+Brazil,IFRO,IF Rondonia,Rondônia,Norte,Cacoal,Cacoal,-11.4333,-61.4420502,1,,,,1,S
+Brazil,IFRO,IF Rondonia,Rondônia,Norte,Colorado,Colorado,-13.117431,-60.545428,1,,,,1,S
+Brazil,IFRO,IF Rondonia,Rondônia,Norte,Guajara-Mirim,Guajara-Mirim,-10.7804239,-65.3327825,1,,,,1,S
+Brazil,IFRO,IF Rondonia,Rondônia,Norte,Jaru,Jaru,-10.431826,-62.478769,1,,,,1,S
+Brazil,IFRO,IF Rondonia,Rondônia,Norte,Ji-Parana,Ji-Parana,-10.8778148,-61.9277854,1,1,,,2,S
+Brazil,IFRO,IF Rondonia,Rondônia,Norte,Porto Velho Zona Norte,Porto Velho,-8.740956,-63.889272,0,0,0,0,0,N
+Brazil,IFRO,IF Rondonia,Rondônia,Norte,Porto Velho Calama,Porto Velho,-8.743406,-63.864906,2,,,,2,S
+Brazil,IFRO,IF Rondonia,Rondônia,Norte,Vilhena,Vilhena,-12.7368536,-60.1465555,1,,,,1,S
+Brazil,IFAC,IF Acre,Acre,Norte,Cruzeiro do Sul,Cruzeiro do Sul,-7.6307956,-72.6703869,,1,,,1,S
+Brazil,IFAC,IF Acre,Acre,Norte,Sena Madureira,Sena Madureira,-9.0659556,-68.6571058,1,1,,,2,S
+Brazil,IFAC,IF Acre,Acre,Norte,Rio Branco,Rio Branco,-9.9765362,-67.8220778,2,2,,,4,S
+Brazil,IFAC,IF Acre,Acre,Norte,Avancado Baixada do Sol,Baixada do Sol,-9.9849468,-67.8229856,0,0,0,0,0,S
+Brazil,IFAC,IF Acre,Acre,Norte,Xapuri,Xapuri,-10.6511174,-68.5017902,1,1,,,2,S
+Brazil,IFAC,IF Acre,Acre,Norte,Tarauaca,Tarauaca,-8.1602019,-70.7665368,,1,1,,2,S
+Brazil,IFPA,IF Para,Pará,Norte,Abaetetuba,Abaetetuba,-1.707552,-48.878882,,1,,,1,S
+Brazil,IFPA,IF Para,Pará,Norte,Altamira,Altamira,-3.204065,-52.209961,,1,,,1,S
+Brazil,IFPA,IF Para,Pará,Norte,Ananindeua,Ananindeua,-1.374035,-48.4016623,,1,,,1,S
+Brazil,IFPA,IF Para,Pará,Norte,Belem,Belem,-1.45056,-48.4682453,2,4,1,,7,S
+Brazil,IFPA,IF Para,Pará,Norte,Braganca,Braganca,-0.9892329,-46.783178,,1,,,1,S
+Brazil,IFPA,IF Para,Pará,Norte,Breves,Breves,-1.68036,-50.479085,,1,,,1,S
+Brazil,IFPA,IF Para,Pará,Norte,Cameta,Cameta,-2.242949,-49.497885,,1,,,1,S
+Brazil,IFPA,IF Para,Pará,Norte,Castanhal,Castanhal,-1.2927031,-47.9223903,,1,,,1,S
+Brazil,IFPA,IF Para,Pará,Norte,Itaituba,Itaituba,-4.2625218,-55.9878139,,1,,,1,S
+Brazil,IFPA,IF Para,Pará,Norte,Conceição Araguaia,Conceição Araguaia,-8.2696905,-49.2676864,,,1,,1,S
+Brazil,IFPA,IF Para,Pará,Norte,Maraba Industrial,Maraba,-5.4544899,-49.2398368,,1,,,1,S
+Brazil,IFPA,IF Para,Pará,Norte,Maraba Rural,Maraba,-5.5700615,-49.1024169,,1,,,1,S
+Brazil,IFPA,IF Para,Pará,Norte,Obidos,Obidos,-1.901072,-55.520812,,1,,,1,S
+Brazil,IFPA,IF Para,Pará,Norte,Paragominas,Paragominas,-2.99564,-47.3548942,,1,,,1,S
+Brazil,IFPA,IF Para,Pará,Norte,Parauapebas,Parauapebas,-6.0696846,-49.8903283,1,,,,1,S
+Brazil,IFPA,IF Para,Pará,Norte,Santarem,Santarem,-2.438489,-54.699611,,1,,,1,S
+Brazil,IFPA,IF Para,Pará,Norte,Tucurui,Tucurui,-3.7738509,-49.6708204,,1,,,1,S
+Brazil,IFPA,IF Para,Pará,Norte,Vigia,Vigia,-0.8546027,-48.1432873,0,0,0,0,0,N
+Brazil,IFAM,IF Amazonas,Amazônas,Norte,Manaus Centro,Manaus,-3.134256,-60.014952,,3,,,3,S
+Brazil,IFAM,IF Amazonas,Amazônas,Norte,Manaus Zona Leste,Manaus,-3.079394,-59.933775,1,1,,,2,S
+Brazil,IFAM,IF Amazonas,Amazônas,Norte,Manaus Distrito Industrial,Manaus,-3.135924,-59.974021,1,,,1,2,S
+Brazil,IFAM,IF Amazonas,Amazônas,Norte,São Gabriel da Cachoeira,São Gabriel da Cachoeira,-0.1249715,-67.0813855,1,,,,1,S
+Brazil,IFAM,IF Amazonas,Amazônas,Norte,Coari,Coari,-4.0885957,-63.1431166,0,0,0,0,0,S
+Brazil,IFAM,IF Amazonas,Amazônas,Norte,Labrea,Labrea,-7.2613683,-64.7924505,1,,,,1,S
+Brazil,IFAM,IF Amazonas,Amazônas,Norte,Maues,Maues,-3.3795798,-57.7196072,,1,,,1,S
+Brazil,IFAM,IF Amazonas,Amazônas,Norte,Parintins,Parintins,-2.6344567,-56.7319324,,,,1,1,S
+Brazil,IFAM,IF Amazonas,Amazônas,Norte,Tabatinga,Tabatinga,-4.2327349,-69.9263372,,1,,,1,S
+Brazil,IFAM,IF Amazonas,Amazônas,Norte,Presidente Figueiredo,Presidente Figueiredo,-2.0486359,-60.0236658,,1,,,1,S
+Brazil,IFAM,IF Amazonas,Amazônas,Norte,Itacoatiara,Itacoatiara,-3.1477898,-58.4461041,,1,,,1,S
+Brazil,IFAM,IF Amazonas,Amazônas,Norte,Humaita,Humaita,-7.5099404,-63.0248674,1,,,,1,S
+Brazil,IFAM,IF Amazonas,Amazônas,Norte,Manacapuru,Manacapuru,-3.2996768,-60.6213528,1,,,,1,S
+Brazil,IFAM,IF Amazonas,Amazônas,Norte,Eirunepe,Eirunepe,-6.6567654,-69.866161,1,,,,1,S
+Brazil,IFAM,IF Amazonas,Amazônas,Norte,Tefe,Tefe,-3.3485276,-64.7102278,1,,,,1,S
+Brazil,IFAP,IF Amapa,Amapá,Norte,Laranjal do Jari,Laranjal do Jari,-0.8419994,-52.516,,1,,,1,S
+Brazil,IFAP,IF Amapa,Amapá,Norte,Macapa,Macapa,0.0401529,-51.0569588,1,1,,,2,S
+Brazil,IFAP,IF Amapa,Amapá,Norte,Porto Grande,Porto Grande,0.7028371,-51.4041605,1,1,,,2,S
+Brazil,IFAP,IF Amapa,Amapá,Norte,Santana,Santana,-0.0307068,-51.1789666,1,1,,,2,S
+Brazil,IFAP,IF Amapa,Amapá,Norte,Campus Avancado Oiapoque,Oiapoque,3.8432128,-51.8350798,0,0,0,0,0,N
+Brazil,IFAP,IF Amapa,Amapá,Norte,Pedra Branca (Centro EAD),Pedra Branca,0.7771833,-51.9523218,0,0,0,0,0,N
+Brazil,IFRR,IF Roraima,Roraíma,Norte,Amajari,Amajari,3.6523869,-61.4194315,0,0,0,0,0,S
+Brazil,IFRR,IF Roraima,Roraíma,Norte,Bonfim,Bonfim,3.3613818,-59.8427241,0,0,0,0,0,N
+Brazil,IFRR,IF Roraima,Roraíma,Norte,Boa Vista Zona Oeste,Boa Vista,2.8208478,-60.6719582,1,,,,1,S
+Brazil,IFRR,IF Roraima,Roraíma,Norte,Boa Vista,Boa Vista,2.8208478,-60.6719582,1,,,,1,S
+Brazil,IFRR,IF Roraima,Roraíma,Norte,Novo Paraiso,Novo Paraiso,4.5173028,-61.09,0,0,0,0,0,S
+Brazil,IFBA,IF Bahia,Bahia,Nordeste,Barreiras,Barreiras,-12.1440031,-44.9967406,,,,1,1,S
+Brazil,IFBA,IF Bahia,Bahia,Nordeste,Brumado,Brumado,-14.29507325,-41.659307508575985,1,,,,1,S
+Brazil,IFBA,IF Bahia,Bahia,Nordeste,Camacari,Camacari,-12.6998188,-38.3260762,1,,1,,2,S
+Brazil,IFBA,IF Bahia,Bahia,Nordeste,Eunapolis,Eunapolis,-16.3722412,-39.575704,,,1,1,2,S
+Brazil,IFBA,IF Bahia,Bahia,Nordeste,Euclides da Cunha,Euclides da Cunha,-10.5060835,-39.0129875,1,,,,1,S
+Brazil,IFBA,IF Bahia,Bahia,Nordeste,Feira de Santana,Feira de Santana,-12.2578934,-38.9598047,1,,,,1,S
+Brazil,IFBA,IF Bahia,Bahia,Nordeste,Ilheus,Ilheus,-14.792599,-39.0453843,,,,1,1,S
+Brazil,IFBA,IF Bahia,Bahia,Nordeste,Irece,Irece,-11.3034965,-41.8557929,1,,,,1,S
+Brazil,IFBA,IF Bahia,Bahia,Nordeste,Jacobina,Jacobina,-11.1851561,-40.5112434,1,,,,1,S
+Brazil,IFBA,IF Bahia,Bahia,Nordeste,Jequie,Jequie,-13.8604033,-40.0719627,1,,,,1,S
+Brazil,IFBA,IF Bahia,Bahia,Nordeste,Juazeiro,Juazeiro,-9.4336959,-40.5068201,0,0,0,0,0,S
+Brazil,IFBA,IF Bahia,Bahia,Nordeste,Lauro de Freitas,Lauro de Freitas,-12.89242,-38.3127691,,,1,,1,N
+Brazil,IFBA,IF Bahia,Bahia,Nordeste,Paulo Afonso,Paulo Afonso,-9.3991006,-38.226711,1,,,,1,S
+Brazil,IFBA,IF Bahia,Bahia,Nordeste,Porto Seguro,Porto Seguro,-16.443473,-39.064251,1,,,,1,S
+Brazil,IFBA,IF Bahia,Bahia,Nordeste,Salinas de Margarida,Salvador,-12.873932,-38.763336,0,0,0,0,0,S
+Brazil,IFBA,IF Bahia,Bahia,Nordeste,Salvador,Salvador,-12.9822499,-38.4812772,2,1,1,1,5,S
+Brazil,IFBA,IF Bahia,Bahia,Nordeste,Santo Amaro,Santo Amaro,-12.5519686,-38.7060448,,1,,,1,S
+Brazil,IFBA,IF Bahia,Bahia,Nordeste,Santo Antonio de Jesus,Santo Antonio de Jesus,-12.9689361,-39.260914,0,0,0,0,0,N
+Brazil,IFBA,IF Bahia,Bahia,Nordeste,Seabra,Seabra,-12.4172071,-41.772051,,1,,,1,S
+Brazil,IFBA,IF Bahia,Bahia,Nordeste,Simoes Filho,Simoes Filho,-12.7867839,-38.4030365,1,,,,1,S
+Brazil,IFBA,IF Bahia,Bahia,Nordeste,Ubaitaba,Ubaitaba,-14.3117771,-39.3226605,0,0,0,0,0,N
+Brazil,IFBA,IF Bahia,Bahia,Nordeste,Valenca,Valenca,-13.3723582,-39.0694243,2,,,,2,S
+Brazil,IFBA,IF Bahia,Bahia,Nordeste,Vitoria da Conquista,Vitoria da Conquista,-14.8567487,-40.8414804,1,1,,,2,S
+Brazil,IF Baiano,IF Baiano,Bahia,Nordeste,Alagoinhas,Alagoinhas,-12.1340,-38.4211,,1,1,,2,S
+Brazil,IF Baiano,IF Baiano,Bahia,Nordeste,Bom Jesus da Lapa,Bom Jesus da Lapa,-13.250571,-43.410754,,2,,,2,S
+Brazil,IF Baiano,IF Baiano,Bahia,Nordeste,Catu,Catu,-12.351274,-38.379108,1,1,,,2,S
+Brazil,IF Baiano,IF Baiano,Bahia,Nordeste,Governador Mangabeira,Governador Mangabeira,-12.6038648,-39.0372154,1,,,,1,S
+Brazil,IF Baiano,IF Baiano,Bahia,Nordeste,Guananbi,Guananbi,-14.1275013,-39.7514977,1,,,,1,S
+Brazil,IF Baiano,IF Baiano,Bahia,Nordeste,Itaberaba,Itaberaba,-12.524182,-40.305897,,1,,,1,S
+Brazil,IF Baiano,IF Baiano,Bahia,Nordeste,Itapetinga,Itapetinga,-15.2454478,-40.2460053,,1,1,,2,S
+Brazil,IF Baiano,IF Baiano,Bahia,Nordeste,Santa Ines,Santa Ines,-13.2897697,-39.8179701,,2,,,2,S
+Brazil,IF Baiano,IF Baiano,Bahia,Nordeste,Senhor do Bonfim,Senhor do Bonfim,-10.4602509,-40.189151,,1,,,1,S
+Brazil,IF Baiano,IF Baiano,Bahia,Nordeste,Serrinha,Serrinha,-11.66199,-39.0034021,1,,,,1,S
+Brazil,IF Baiano,IF Baiano,Bahia,Nordeste,Teixeira de Freitas,Teixeira de Freitas,-17.5376644,-39.7458096,0,0,0,0,0,S
+Brazil,IF Baiano,IF Baiano,Bahia,Nordeste,Urucuca,Urucuca,-14.5913092,-39.2862094,2,1,,,3,S
+Brazil,IF Baiano,IF Baiano,Bahia,Nordeste,Valenca,Valenca,-13.3723582,-39.0694243,1,1,,,2,S
+Brazil,IF Baiano,IF Baiano,Bahia,Nordeste,Xique-Xique,Xique-Xique,-10.8217193,-42.7265689,0,0,0,0,0,N
+Brazil,IFS,IF Sergipe,Sergipe,Nordeste,Aracaju,Aracaju,-10.9162061,-37.0774655,,2,,,2,S
+Brazil,IFS,IF Sergipe,Sergipe,Nordeste,Estancia,Estancia,-11.2682255,-37.4378341,0,0,0,0,0,S
+Brazil,IFS,IF Sergipe,Sergipe,Nordeste,Gloria,Gloria,-10.2188811,-37.4199759,0,0,0,0,0,S
+Brazil,IFS,IF Sergipe,Sergipe,Nordeste,Itabaiana,Itabaiana,-10.6856197,-37.4270517,0,0,0,0,0,S
+Brazil,IFS,IF Sergipe,Sergipe,Nordeste,Lagarto,Lagarto,-10.9141791,-37.6715308,1,,,,1,S
+Brazil,IFS,IF Sergipe,Sergipe,Nordeste,Poco Redondo,Poco Redondo,-9.8083322,-37.6827949,0,0,0,0,0,N
+Brazil,IFS,IF Sergipe,Sergipe,Nordeste,Propria,Propria,-10.212427,-36.8372254,0,0,0,0,0,N
+Brazil,IFS,IF Sergipe,Sergipe,Nordeste,São Cristovão,São Cristovão,-11.0136465,-37.2071134,0,0,0,0,0,S
+Brazil,IFS,IF Sergipe,Sergipe,Nordeste,Socorro,Socorro,-10.8553115,-37.1264863,0,0,0,0,0,N
+Brazil,IFS,IF Sergipe,Sergipe,Nordeste,Tobias Barreto,Tobias Barreto,-11.1878721,-38.0030397,0,0,0,0,0,S
+Brazil,IFAL,IF Alagoas,Alagoas,Nordeste,Arapiraca,Arapiraca,-9.754866,-36.661471,1,,,,1,S
+Brazil,IFAL,IF Alagoas,Alagoas,Nordeste,Batalha,Batalha,-9.6733809,-37.1265481,,1,,,1,S
+Brazil,IFAL,IF Alagoas,Alagoas,Nordeste,Benedito Bentes,Benedito Bentes,-9.5561682,-35.7237673,0,0,0,0,0,N
+Brazil,IFAL,IF Alagoas,Alagoas,Nordeste,Coruripe ,Coruripe ,-10.1249963,-36.1760623,1,,,,1,S
+Brazil,IFAL,IF Alagoas,Alagoas,Nordeste,Maceio,Maceio,-9.6476843,-35.7339264,,2,,,2,S
+Brazil,IFAL,IF Alagoas,Alagoas,Nordeste,Maragogi ,Maragogi ,-9.0118278,-35.222512,,,1,,1,S
+Brazil,IFAL,IF Alagoas,Alagoas,Nordeste,Marechal Deodoro,Marechal Deodoro,-9.709715,-35.896731,,1,,,1,S
+Brazil,IFAL,IF Alagoas,Alagoas,Nordeste,Murici,Murici,-9.306823,-35.942798,,,1,,1,S
+Brazil,IFAL,IF Alagoas,Alagoas,Nordeste,Palmeira dos Indios,Palmeira dos Indios,-9.4112877,-36.6293905,,1,,,1,S
+Brazil,IFAL,IF Alagoas,Alagoas,Nordeste,Penedo,Penedo,-10.2872341,-36.5819262,,1,1,,2,S
+Brazil,IFAL,IF Alagoas,Alagoas,Nordeste,Piranhas,Piranhas,-9.6115579,-37.7616366,,,1,,1,S
+Brazil,IFAL,IF Alagoas,Alagoas,Nordeste,Rio Largo,Rio Largo,-9.477829,-35.839435,0,0,0,0,0,N
+Brazil,IFAL,IF Alagoas,Alagoas,Nordeste,Santana do Ipanema,Santana do Ipanema,-9.369989,-37.248018,1,,,,1,S
+Brazil,IFAL,IF Alagoas,Alagoas,Nordeste,São Miguel dos Campos,São Miguel dos Campos,-9.7831115,-36.0967804,0,0,0,0,0,N
+Brazil,IFAL,IF Alagoas,Alagoas,Nordeste,Satuba,Satuba,-9.569113,-35.822697,,,2,,2,S
+Brazil,IFAL,IF Alagoas,Alagoas,Nordeste,Vicosa,Vicosa,-9.3728032,-36.2432636,,,1,,1,S
+Brazil,IFPE,IF Pernambuco,Pernambuco,Nordeste,Abreu e Lima,Abreu e Lima,-7.900719,-34.898389,,1,,,1,N
+Brazil,IFPE,IF Pernambuco,Pernambuco,Nordeste,Afogados da Ingazeira,Afogados da Ingazeira,-7.7481283,-37.6346614,0,0,0,0,0,S
+Brazil,IFPE,IF Pernambuco,Pernambuco,Nordeste,Barreiros,Barreiros,-8.8159644,-35.1831905,,4,,,4,S
+Brazil,IFPE,IF Pernambuco,Pernambuco,Nordeste,Belo Jardim,Belo Jardim,-8.3338293,-36.4176419,,10,,,10,S
+Brazil,IFPE,IF Pernambuco,Pernambuco,Nordeste,Cabo de Santo Agostinho,Cabo de Santo Agostinho,-8.2838945,-35.0320984,1,,,,1,N
+Brazil,IFPE,IF Pernambuco,Pernambuco,Nordeste,Caruaru,Caruaru,-8.2829702,-35.9722852,1,,,,1,S
+Brazil,IFPE,IF Pernambuco,Pernambuco,Nordeste,Garunhuns,Garunhuns,-8.8829,-36.4969,,1,,,1,S
+Brazil,IFPE,IF Pernambuco,Pernambuco,Nordeste,Igarassu,Igarassu,-7.8354423,-34.9061125,0,0,0,0,0,N
+Brazil,IFPE,IF Pernambuco,Pernambuco,Nordeste,Ipojuca,Ipojuca,-8.3980773,-35.0611068,0,0,0,0,0,N
+Brazil,IFPE,IF Pernambuco,Pernambuco,Nordeste,Jaboatão dos Guararapes,Jaboatão dos Guararapes,-8.1752476,-34.9468716,1,,,,1,N
+Brazil,IFPE,IF Pernambuco,Pernambuco,Nordeste,Olinda,Olinda,-7.9986401,-34.8459552,9,1,,,10,N
+Brazil,IFPE,IF Pernambuco,Pernambuco,Nordeste,Palmares,Palmares,-8.684226,-35.589032,0,0,0,0,0,N
+Brazil,IFPE,IF Pernambuco,Pernambuco,Nordeste,Paulista,Paulista,-7.9340069,-34.868407,0,0,0,0,0,N
+Brazil,IFPE,IF Pernambuco,Pernambuco,Nordeste,Pesqueira,Pesqueira,-8.3579952,-36.6971741,,1,,,1,S
+Brazil,IFPE,IF Pernambuco,Pernambuco,Nordeste,Recife,Recife,-8.0641931,-34.8781517,,2,,,2,S
+Brazil,IFPE,IF Pernambuco,Pernambuco,Nordeste,Vitoria de Santo Antão,Vitoria de Santo Antão,-8.1209019,-35.2944858,,2,,,2,S
+Brazil,IF Sertão,IF Sertão Pernambucano,Pernambuco,Nordeste,Petrolina,Petrolina,-9.362497,-40.539628,1,6,,,7,S
+Brazil,IF Sertão,IF Sertão Pernambucano,Pernambuco,Nordeste,Petrolina Zona Rural,Petrolina,-9.334790,-40.688262,,1,1,,2,S
+Brazil,IF Sertão,IF Sertão Pernambucano,Pernambuco,Nordeste,Floresta,Floresta,-8.5998918,-38.5706775,,1,,,1,S
+Brazil,IF Sertão,IF Sertão Pernambucano,Pernambuco,Nordeste,Salgueiro,Salgueiro,-8.073734,-39.12469,,1,,,1,S
+Brazil,IF Sertão,IF Sertão Pernambucano,Pernambuco,Nordeste,Ouricuri,Ouricuri,-7.884432,-40.0833221,,1,,,1,S
+Brazil,IF Sertão,IF Sertão Pernambucano,Pernambuco,Nordeste,Santa Maria da Boa Vista,Santa Maria,-8.0261725,-35.00780,,1,,,1,S
+Brazil,IF Sertão,IF Sertão Pernambucano,Pernambuco,Nordeste,Serra Talhada,Serra Talhada,-7.9867805,-38.2920294,,1,,,1,S
+Brazil,IFPB,IF Paraiba,Paraíba,Nordeste,Areia,Areia,-6.9680243,-35.6994783,0,0,0,0,0,N
+Brazil,IFPB,IF Paraiba,Paraíba,Nordeste,Cabedelo,Cabedelo,-6.97324,-34.8351609,,1,,,1,S
+Brazil,IFPB,IF Paraiba,Paraíba,Nordeste,Cabedelo Centro,Cabedelo Centro,-6.97413565,-34.8360634,,1,,,1,S
+Brazil,IFPB,IF Paraiba,Paraíba,Nordeste,Cajazeiras,Cajazeiras,-6.8897849,-38.5570389,1,1,,,2,S
+Brazil,IFPB,IF Paraiba,Paraíba,Nordeste,Campina Grande,Campina Grande,-7.2246743,-35.8771292,,1,,,1,S
+Brazil,IFPB,IF Paraiba,Paraíba,Nordeste,Catole do Rocha,Catole do Rocha,-6.340625,-37.746967,1,,,,1,S
+Brazil,IFPB,IF Paraiba,Paraíba,Nordeste,Esperanca,Esperanca,-7.018517,-35.852193,,,1,,1,S
+Brazil,IFPB,IF Paraiba,Paraíba,Nordeste,Guarabira,Guarabira,-6.8513982,-35.4915582,1,,,,1,S
+Brazil,IFPB,IF Paraiba,Paraíba,Nordeste,Itabaiana,Itabaiana,-7.331674,-35.331723,1,,,,1,S
+Brazil,IFPB,IF Paraiba,Paraíba,Nordeste,Itaporanga,Itaporanga,-7.3040747,-38.1505782,,,1,,1,S
+Brazil,IFPB,IF Paraiba,Paraíba,Nordeste,João Pessoa,João Pessoa,-7.1215981,-34.882028,1,1,1,1,4,S
+Brazil,IFPB,IF Paraiba,Paraíba,Nordeste,Mangabeira,Mangabeira,-7.1695048,-34.8393055,0,0,0,0,0,N
+Brazil,IFPB,IF Paraiba,Paraíba,Nordeste,Monteiro,Monteiro,-7.8920179,-37.1232051,,8,,,8,S
+Brazil,IFPB,IF Paraiba,Paraíba,Nordeste,Patos,Patos,-7.0258285,-37.2766817,,1,,,1,S
+Brazil,IFPB,IF Paraiba,Paraíba,Nordeste,Pedras de Fogo,Pedras de Fogo,-7.3988977,-35.112176,0,0,0,0,0,N
+Brazil,IFPB,IF Paraiba,Paraíba,Nordeste,Picui,Picui,-6.5106721,-36.3492736,,,1,,1,S
+Brazil,IFPB,IF Paraiba,Paraíba,Nordeste,Princesa Isabel,Princesa Isabel,-7.736898,-37.9921335,,1,,,1,S
+Brazil,IFPB,IF Paraiba,Paraíba,Nordeste,Santa Luzia,Santa Luzia,-6.8677854,-36.9182757,0,0,0,0,0,N
+Brazil,IFPB,IF Paraiba,Paraíba,Nordeste,Santa Rita,Santa Rita,-7.128465,-34.9846186,1,,,,1,S
+Brazil,IFPB,IF Paraiba,Paraíba,Nordeste,Soledade,Soledade,-7.058292,-36.366791,0,0,0,0,0,N
+Brazil,IFPB,IF Paraiba,Paraíba,Nordeste,Souza,Souza,-23.18767345,-45.86736124080251,1,,,,1,S
+Brazil,IFRN,IF Rio Grande do Norte,Rio Grande do Norte,Nordeste,Apodi,Apodi,-5.6631109,-37.796927,1,1,,,2,S
+Brazil,IFRN,IF Rio Grande do Norte,Rio Grande do Norte,Nordeste,Caico,Caico,-6.4594544,-37.0971911,1,1,1,,3,S
+Brazil,IFRN,IF Rio Grande do Norte,Rio Grande do Norte,Nordeste,Canguaretama,Canguaretama,-6.3751942,-35.137463,1,1,,,2,S
+Brazil,IFRN,IF Rio Grande do Norte,Rio Grande do Norte,Nordeste,Ceara-Mirim,Ceara-Mirim,-5.6322768,-35.4213193,,1,1,,2,S
+Brazil,IFRN,IF Rio Grande do Norte,Rio Grande do Norte,Nordeste,Currais Novos,Currais Novos,-6.2626676,-36.5173039,1,1,,,2,S
+Brazil,IFRN,IF Rio Grande do Norte,Rio Grande do Norte,Nordeste,Ipanguacu,Ipanguacu,-5.5090713,-36.8594421,1,,1,,2,S
+Brazil,IFRN,IF Rio Grande do Norte,Rio Grande do Norte,Nordeste,João Camara,João Camara,-5.5349637,-35.8150811,,1,1,,2,S
+Brazil,IFRN,IF Rio Grande do Norte,Rio Grande do Norte,Nordeste,Jucurutu,Jucurutu,,,,2,,,2,S
+Brazil,IFRN,IF Rio Grande do Norte,Rio Grande do Norte,Nordeste,Lajes,Lajes,-5.7014079,-36.246219,,,1,,1,S
+Brazil,IFRN,IF Rio Grande do Norte,Rio Grande do Norte,Nordeste,Macau,Macau,-5.1133665,-36.6349957,,1,1,,2,S
+Brazil,IFRN,IF Rio Grande do Norte,Rio Grande do Norte,Nordeste,Mossoro,Mossoro,-5.1904332,-37.3443872,,1,1,,2,S
+Brazil,IFRN,IF Rio Grande do Norte,Rio Grande do Norte,Nordeste,Natal - Central,Natal,-5.812204,-35.203325,1,2,2,,5,S
+Brazil,IFRN,IF Rio Grande do Norte,Rio Grande do Norte,Nordeste,Natal - Cidade Alta,Natal,-5.774641,-35.200489,2,,1,,3,S
+Brazil,IFRN,IF Rio Grande do Norte,Rio Grande do Norte,Nordeste,Natal - Zona Norte,Natal,-5.748316,-35.261630,1,,1,,2,S
+Brazil,IFRN,IF Rio Grande do Norte,Rio Grande do Norte,Nordeste,Natal - Zona Leste,Natal,,,,1,,,1,S
+Brazil,IFRN,IF Rio Grande do Norte,Rio Grande do Norte,Nordeste,Nova Cruz,Nova Cruz,-6.482111,-35.4332326,1,1,,,2,S
+Brazil,IFRN,IF Rio Grande do Norte,Rio Grande do Norte,Nordeste,Parelhas,Parelhas,-6.691369,-36.6584475,1,,,,1,S
+Brazil,IFRN,IF Rio Grande do Norte,Rio Grande do Norte,Nordeste,Parnamirim,Parnamirim,-5.9153334,-35.2679913,1,,1,,2,S
+Brazil,IFRN,IF Rio Grande do Norte,Rio Grande do Norte,Nordeste,Pau dos Ferros,Pau dos Ferros,-6.1124964,-38.2062628,,1,1,,2,S
+Brazil,IFRN,IF Rio Grande do Norte,Rio Grande do Norte,Nordeste,Santa Cruz,Santa Cruz,-6.224752,-36.019297,,1,1,,2,S
+Brazil,IFRN,IF Rio Grande do Norte,Rio Grande do Norte,Nordeste,São Goncalo do Amarante,São Goncalo do Amarante,-5.7932331,-35.3286312,1,1,,,2,S
+Brazil,IFRN,IF Rio Grande do Norte,Rio Grande do Norte,Nordeste,São Paulo do Potengi,São Paulo do Potengi,-5.8941684,-35.7648309,,1,1,,2,S
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Acarau,Acarau,-2.8869514,-40.1194713,0,0,0,0,0,N
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Acopiara,Acopiara,-6.0936464,-39.4543204,0,0,0,0,0,S
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Aracati,Aracati,-4.558259,-37.767894,1,,,,1,S
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Baturite,Baturite,-4.3290203,-38.8821055,0,0,0,0,0,S
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Boa Viagem,Boa Viagem,-5.1261877,-39.7300055,0,0,0,0,0,S
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Camocim,Camocim,-2.9009918,-40.8427389,0,0,0,0,0,N
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Caninde,Caninde,-4.3547946,-39.3108516,1,5,,,6,S
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Caucaia,Caucaia,-3.7300563,-38.6593082,,1,,,1,S
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Cedro,Cedro,-6.6065382,-39.0599487,,1,,,1,S
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Crateus,Crateus,-5.1782451,-40.6696545,,5,,,5,S
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Crato,Crato,-7.2369112,-39.4149236,1,,,,1,S
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Fortaleza,Fortaleza,-3.7304512,-38.5217989,4,3,2,,9,S
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Guaramiranga,Guaramiranga,-4.2615431,-38.9339337,,1,,,1,N
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Horizonte,Horizonte,-4.0964618,-38.4965574,,1,,,1,N
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Iguatu,Iguatu,-6.361934,-39.2972233,1,,,,1,S
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Itapipoca,Itapipoca,-3.499329,-39.583571,,1,,,1,S
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Jaguaribe,Jaguaribe,-5.8854585,-38.6212957,,1,,,1,S
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Jaguaruana,Jaguaruana,-4.831508,-37.780997,0,0,0,0,0,N
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Juazeiro do Norte,Juazeiro do Norte,-7.2153453,-39.3153336,,,1,,1,S
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Limoeiro do Norte,Limoeiro do Norte,-5.1455607,-38.0984936,,6,,,6,S
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Maracanau,Maracanau,-3.8779438,-38.6247697,,1,,,1,N
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Maranguape,Maranguape,-3.8922967,-38.6835427,,1,,,1,N
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Morada Nova,Morada Nova,-5.1076699,-38.3727852,0,0,0,0,0,N
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Paracuru,Paracuru,-3.41436,-39.030028,,1,,,1,N
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Pecem,Pecem,-3.5486983,-38.8277285,0,0,0,0,0,N
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Quixada,Quixada,-4.9706021,-39.0158403,,,,1,1,S
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Sobral,Sobral,-3.6879135,-40.3456372,,1,,,1,N
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Tabuleiro do Norte,Tabuleiro do Norte,-5.2440865,-38.1284605,,3,,,3,S
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Taua,Taua,-6.0031372,-40.2947268,,1,,,1,S
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Tiangua,Tiangua,-3.7307332,-41.0004019,0,0,0,0,0,N
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Ubajara,Ubajara,-3.8534468,-40.9185642,0,0,0,0,0,N
+Brazil,IFCE,IF Ceara,Ceará,Nordeste,Umirim,Umirim,-3.6777738,-39.348725,1,,,,1,S
+Brazil,IFPI,IF Piaui,Piauí,Nordeste,Angical,Angical,-7.2160275,-42.2412599,1,,,,1,S
+Brazil,IFPI,IF Piaui,Piauí,Nordeste,Cocal,Cocal,-3.4691882,-41.555851,1,1,,,2,S
+Brazil,IFPI,IF Piaui,Piauí,Nordeste,Dirceu Arcoverde,Dirceu Arcoverde,-9.3413101,-42.4362055,0,0,0,0,0,N
+Brazil,IFPI,IF Piaui,Piauí,Nordeste,Jose De Freitas,Jose De Freitas,-4.7578357,-42.5763777,0,0,0,0,0,N
+Brazil,IFPI,IF Piaui,Piauí,Nordeste,Parnaiba,Parnaiba,-2.9147515,-41.7661953,1,1,,,2,S
+Brazil,IFPI,IF Piaui,Piauí,Nordeste,Pedro Ii,Pedro Ii,-4.425845,-41.448184,1,1,,,2,S
+Brazil,IFPI,IF Piaui,Piauí,Nordeste,Pio Ix,Pio Ix,-6.8351921,-40.6148654,0,0,0,0,0,S
+Brazil,IFPI,IF Piaui,Piauí,Nordeste,São João,São João,-4.3793602,-42.1040727,1,1,,,2,S
+Brazil,IFPI,IF Piaui,Piauí,Nordeste,Teresina Central,Teresina,-5.0896403,-42.809588,2,8,,,10,S
+Brazil,IFPI,IF Piaui,Piauí,Nordeste,Urucui,Urucui,-7.2363099,-44.555387,1,1,,,2,S
+Brazil,IFPI,IF Piaui,Piauí,Nordeste,Campo Maior,Campo Maior,-4.8339574,-42.1739786,1,1,,,2,S
+Brazil,IFPI,IF Piaui,Piauí,Nordeste,Corrente,Corrente,-10.4401356,-45.1627472,1,,,,1,S
+Brazil,IFPI,IF Piaui,Piauí,Nordeste,Floriano,Floriano,-6.7726534,-43.0070616,1,1,,,2,S
+Brazil,IFPI,IF Piaui,Piauí,Nordeste,Oeiras,Oeiras,-7.0109909,-42.1299376,1,1,,,2,S
+Brazil,IFPI,IF Piaui,Piauí,Nordeste,Paulistana,Paulistana,-8.1389174,-41.1380533,1,1,,,2,S
+Brazil,IFPI,IF Piaui,Piauí,Nordeste,Picos,Picos,-7.0823544,-41.4685053,,1,1,,2,S
+Brazil,IFPI,IF Piaui,Piauí,Nordeste,Piripiri,Piripiri,-4.2732339,-41.7785173,1,1,,,2,S
+Brazil,IFPI,IF Piaui,Piauí,Nordeste,São Raimundo Nonato,São Raimundo Nonato,-9.0150522,-42.6886909,1,1,,,2,S
+Brazil,IFPI,IF Piaui,Piauí,Nordeste,Teresina Zona Sul,Teresina,-5.0896403,-42.809588,1,1,,,2,S
+Brazil,IFPI,IF Piaui,Piauí,Nordeste,Valenca,Valenca,-6.4048149,-41.7382812,1,1,,,2,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Acailandia,Acailandia,-4.9514278,-47.4844564,1,,,,1,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Alcantara,Alcantara,-2.4038956,-44.4154241,,,1,,1,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Araioses,Araioses,-2.890914,-41.904993,1,,,,1,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Bacabal,Bacabal,-4.2318132,-44.781167,,,1,,1,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Barra do Corda,Barra do Corda,-5.496823,-45.248496,0,0,0,0,0,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Barreirinhas,Barreirinhas,-2.7541271,-42.8259693,,,2,,2,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Buriticupu,Buriticupu,-4.3227472,-46.4516989,1,,,,1,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Carolina,Carolina,-7.3313437,-47.4738762,0,0,0,0,0,N
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Caxias,Caxias,-4.8654201,-43.353664,1,,,,1,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Codo,Codo,-4.455623,-43.892354,,,1,,1,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Coelho Neto,Coelho Neto,-4.2535154,-43.0149321,,1,,,1,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Grajau,Grajau,-5.8154034,-46.1361454,,1,,,1,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Imperatriz,Imperatriz,-5.5269279,-47.478115,1,,,,1,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Itapecuru Mirim,Itapecuru Mirim,-3.3973569,-44.3560724,1,,,,1,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Pedreiras,Pedreiras,-4.5687989,-44.6003029,1,,,,1,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Pinheiro,Pinheiro,-2.5270459,-45.0866463,1,,,,1,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Presidente Dutra,Presidente Dutra,-5.289801,-44.49498,1,,,,1,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Porto Franco,Porto Franco,-6.34149,-47.396188,0,0,0,0,0,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Rosario,Rosario,-2.9405903,-44.2491088,,,1,,1,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Santa Ines,Santa Ines,-3.6647821,-45.3826869,,1,,,1,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Sao Jose de Ribamar,São Jose de Ribamar,-2.5609115,-44.0559509,,,1,,1,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Sao João dos Patos,Sao Joao dos Patos,-6.4934,-43.703623,1,,,,1,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Sao Luis - Centro Historico,Sao Luis,-2.5322628,-44.30372,4,1,1,1,7,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Sao Luis - Maracana,Sao Luis,-2.5125259,-44.3447334,1,,,,1,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Sao Luis - Monte Castelo,Sao Luis,-2.5125259,-44.3447334,1,1,1,1,1,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Sao Raimundo das Mangabeiras,Sao Raimundo das Mangabeiras,-7.023608,-45.4769436,1,,,,1,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Timon,Timon,-5.1023325,-42.8449518,1,,,,1,S
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Viana,Viana,-3.2099341,-45.0002456,0,0,0,0,0,N
+Brazil,IFMA,IF Maranhão,Maranhão,Nordeste,Ze Doca,Ze Doca,-3.270145,-45.655344,1,,1,,2,S

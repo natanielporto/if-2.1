@@ -1,17 +1,9 @@
-const DATA_ENDPOINT =
-	'https://ool266yypd.execute-api.us-east-1.amazonaws.com/prd/';
+import thisdata from '../data/planilha-professores-site.txt';
 
 export async function download() {
-	try {
-		const resposta = await fetch(DATA_ENDPOINT);
-		const dados = await resposta.text();
-		return dados.split('\n').slice(1);
-	} catch (error) {
-		console.error('Error while trying to fetch data.');
-		console.error(error);
-	}
-
-	return '';
+	const resposta = await fetch(thisdata);
+	const dados = await resposta.text();
+	return dados.split('\n').slice(1);
 }
 
 function parseData(data) {

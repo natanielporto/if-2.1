@@ -20,6 +20,7 @@ const Chart = ({ colors, data }) => {
 	const keys = Object.keys(data[0]).filter((key) => key !== 'key');
 
 	const dataSortedbyName = data.slice(0);
+
 	dataSortedbyName.sort((itemA, itemB) => {
 		const aToLower = itemA.key.toLowerCase();
 		const bToLower = itemB.key.toLowerCase();
