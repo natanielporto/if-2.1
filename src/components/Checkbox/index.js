@@ -30,7 +30,6 @@ const Checkbox = ({
 Checkbox.propTypes = {
 	click: PropTypes.func,
 	disabled: PropTypes.bool,
-	flexDirection: PropTypes.string,
 	hasPadding: PropTypes.bool,
 	isChecked: PropTypes.bool,
 	label: PropTypes.string.isRequired,
@@ -40,7 +39,6 @@ Checkbox.propTypes = {
 Checkbox.defaultProps = {
 	click: () => {},
 	disabled: false,
-	flexDirection: '',
 	hasPadding: false,
 	isChecked: false,
 	testId: '',

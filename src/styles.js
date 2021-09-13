@@ -62,7 +62,7 @@ export const AppWrapper = styled.div`
 		grid-column-gap: 25px;
 		margin-top: 8px;
 	}
-	
+
 	.top-info-display {
 		display: flex;
 		align-items: center;

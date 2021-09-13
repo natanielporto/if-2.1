@@ -23,14 +23,9 @@ const ExclusiveCheckboxGroup = ({
 };
 
 ExclusiveCheckboxGroup.propTypes = {
-	flexDirection: PropTypes.string,
 	options: PropTypes.arrayOf(PropTypes.string).isRequired,
 	selectedOption: PropTypes.string.isRequired,
 	setSelectedOption: PropTypes.func.isRequired,
-};
-
-ExclusiveCheckboxGroup.defaultProps = {
-	flexDirection: 'row',
 };
 
 export default ExclusiveCheckboxGroup;

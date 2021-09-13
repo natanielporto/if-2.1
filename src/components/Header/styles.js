@@ -30,9 +30,15 @@ export const Links = styled.ul`
 	align-items: center;
 	list-style-type: none;
 	font-size: 16px;
+
 	li {
 		margin: 0 32px;
 		cursor: pointer;
+		button {
+			background-color: transparent;
+			border: none;
+			cursor: pointer;
+		}
 	}
 `;
 

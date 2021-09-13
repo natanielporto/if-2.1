@@ -18,7 +18,6 @@ const Sidebar = ({ children, isOpen, onOpen, onClose, width }) => {
 };
 
 Sidebar.propTypes = {
-	burgerIcon: PropTypes.any,
 	children: PropTypes.arrayOf(PropTypes.element),
 	isOpen: PropTypes.bool.isRequired,
 	onClose: PropTypes.func,
@@ -27,7 +26,6 @@ Sidebar.propTypes = {
 };
 
 Sidebar.defaultProps = {
-	burgerIcon: undefined, // eslint-disable-line no-undefined
 	children: null,
 	onClose: () => {},
 	onOpen: () => {},

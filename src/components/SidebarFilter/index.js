@@ -9,10 +9,8 @@ import { CATEGORIES } from '../../utils/categoriesHelper';
 
 const SidebarFilter = ({
 	onSelectSubject,
-	setOnlyZeroed,
 	onlyZeroed,
 	onlyIntegrated,
-	setOnlyIntegrated,
 	showSidebar,
 	setShowSidebar,
 	checkedOptions,
@@ -70,14 +68,13 @@ const SidebarFilter = ({
 };
 
 SidebarFilter.propTypes = {
-	checkedOptions: PropTypes.array.isRequired,
-	ifData: PropTypes.array.isRequired,
+	checkedOptions: PropTypes.shape([]).isRequired,
+	ifData: PropTypes.shape([]).isRequired,
 	onSelectSubject: PropTypes.func.isRequired,
 	onlyIntegrated: PropTypes.bool.isRequired,
 	onlyZeroed: PropTypes.bool.isRequired,
 	setCheckedOptions: PropTypes.func.isRequired,
-	setOnlyIntegrated: PropTypes.func.isRequired,
-	setOnlyZeroed: PropTypes.func.isRequired,
+	handleDataOnly: PropTypes.func.isRequired,
 	setSelectedLevel: PropTypes.func.isRequired,
 	setShowSidebar: PropTypes.func.isRequired,
 	showSidebar: PropTypes.bool.isRequired,

@@ -64,7 +64,7 @@ const Chart = ({ colors, data }) => {
 };
 
 Chart.propTypes = {
-	colors: PropTypes.object.isRequired,
+	colors: PropTypes.shape({}).isRequired,
 	data: PropTypes.arrayOf(PropTypes.object).isRequired,
 };
 

@@ -110,7 +110,7 @@ const TableModal = ({ setShowTableModal }) => {
 };
 
 TableModal.propTypes = {
-	ifData: PropTypes.object.isRequired,
+	ifData: PropTypes.shape({}).isRequired,
 	setShowTableModal: PropTypes.func.isRequired,
 };
 

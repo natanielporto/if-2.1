@@ -1,4 +1,3 @@
-/* eslint-disable no-invalid-this */
 import React, { useLayoutEffect, useRef } from 'react';
 import PropTypes from 'prop-types';
 import * as topojson from 'topojson-client';
@@ -6,7 +5,7 @@ import * as d3 from 'd3';
 import BrazilGeometry from '../../data/geometries/Brasil.topo.json';
 import { minMax } from '../../utils/math';
 import { STATE_DEFAULT_COLOR } from '../../utils/categoriesHelper';
-import { CustomSvg } from './styles';
+import CustomSvg from './styles';
 
 const Map = ({
 	height,
@@ -21,7 +20,6 @@ const Map = ({
 }) => {
 	const svgRef = useRef();
 
-	/* eslint-disable max-statements */
 	useLayoutEffect(() => {
 		function reset(svg) {
 			svg.transition().duration(750).attr('transform', '');
@@ -193,7 +191,7 @@ const Map = ({
 Map.propTypes = {
 	activeCodarea: PropTypes.string,
 	height: PropTypes.number.isRequired,
-	points: PropTypes.array,
+	points: PropTypes.shape([]),
 	setActiveCodarea: PropTypes.func,
 	setHoverPoint: PropTypes.func,
 	statesToDraw: PropTypes.arrayOf(PropTypes.string),

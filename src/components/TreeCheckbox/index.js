@@ -60,8 +60,8 @@ const TreeCheckbox = ({
 };
 
 TreeCheckbox.propTypes = {
-	checkedData: PropTypes.object.isRequired,
-	checkedOptions: PropTypes.array.isRequired,
+	checkedData: PropTypes.shape({}).isRequired,
+	checkedOptions: PropTypes.shape([]).isRequired,
 	level: PropTypes.number,
 	maxLevel: PropTypes.number.isRequired,
 	setCheckedOptions: PropTypes.func.isRequired,
