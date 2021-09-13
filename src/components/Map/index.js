@@ -191,7 +191,7 @@ const Map = ({
 Map.propTypes = {
 	activeCodarea: PropTypes.string,
 	height: PropTypes.number.isRequired,
-	points: PropTypes.shape([]),
+	points: PropTypes.arrayOf(PropTypes.shape({})),
 	setActiveCodarea: PropTypes.func,
 	setHoverPoint: PropTypes.func,
 	statesToDraw: PropTypes.arrayOf(PropTypes.string),

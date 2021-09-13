@@ -6,7 +6,6 @@ import { SEARCH_TYPE, NODE_LEVELS } from './constants';
 import { ListWrapper, TreeWrapper } from './styles';
 
 const List = ({ checkedOptions, setSelectedLevel, setCheckedOptions }) => {
-	console.log(checkedOptions);
 	const [selectedSearchType, setSelectedSearchType] = useState(SEARCH_TYPE[0]);
 
 	const [checkedData, setCheckedData] = useState(null);
@@ -44,7 +43,7 @@ const List = ({ checkedOptions, setSelectedLevel, setCheckedOptions }) => {
 List.propTypes = {
 	setCheckedOptions: PropTypes.func.isRequired,
 	setSelectedLevel: PropTypes.func.isRequired,
-	checkedOptions: PropTypes.shape([]).isRequired,
+	checkedOptions: PropTypes.arrayOf(PropTypes.shape({})).isRequired,
 };
 
 export default List;

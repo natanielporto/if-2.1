@@ -68,7 +68,7 @@ const SidebarFilter = ({
 };
 
 SidebarFilter.propTypes = {
-	checkedOptions: PropTypes.shape([]).isRequired,
+	checkedOptions: PropTypes.arrayOf(PropTypes.shape({})).isRequired,
 	ifData: PropTypes.shape([]).isRequired,
 	onSelectSubject: PropTypes.func.isRequired,
 	onlyIntegrated: PropTypes.bool.isRequired,
