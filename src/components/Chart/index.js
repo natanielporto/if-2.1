@@ -41,6 +41,7 @@ const Chart = ({ colors, data }) => {
 		tickRotation: variables.thickRotation,
 	};
 
+	console.log(keys);
 	return (
 		<Bar
 			overflow="auto"

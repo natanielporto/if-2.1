@@ -171,7 +171,6 @@ Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Aracruz,Aracruz,-19.824521
 Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Barra de São Francisco,Barra de São Francisco,-18.7570902,-40.8916119,0,0,0,0,0,S
 Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Cachoeiro de Itapemirim,Cachoeiro de Itapemirim,-20.848084,-41.11129,1,,,,1,S
 Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Cariacica,Cariacica,-20.263202,-40.416549,1,,,,1,S
-,,IF Espirito Santo,Espírito Santo,Sudeste,Centro-Serrano,Santa Maria de Jetiba,-20.030342,-40.742610,1,,,,,S
 Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Colatina,Colatina,-19.5346732,-40.6287836,,1,,,1,S
 Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Guarapari,Guarapari,-20.6718755,-40.4984617,1,,,,1,S
 Brazil,IFES,IF Espirito Santo,Espírito Santo,Sudeste,Ibatiba,Ibatiba,-20.2342792,-41.5082981,0,0,0,0,0,S
