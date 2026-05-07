@@ -37,3 +37,4 @@ src/data/geometries/*
 
 # Ignore serverless files
 */.serverless
+.env
